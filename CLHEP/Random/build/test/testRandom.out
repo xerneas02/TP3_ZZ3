@@ -1,0 +1,412 @@
+r=0.286072
+
+
+---------------------------- Random shooting test -----------------------------
+                             --------------------                              
+ >>> Random Engines available <<<
+
+   > HepJamesRandom (default)
+   > Rand
+   > DRand48
+   > Ranlux
+   > Ranlux64
+   > Ranecu
+   > Hurd160
+   > Hurd288
+   > MTwist
+   > Ranshi
+   > DualRand
+   > TripleRand
+
+                   -----  Press <ENTER> to continue  -----
+-------------------------  Test on HepJamesRandom  ----------------------------
+
+ Flat ]0,1[          : 0.366332
+ Flat ]0,5[          : 4.71494
+ Flat ]-5,3[         : -2.76815
+ Exp (m=1)           : 1.69603
+ Exp (m=3)           : 5.03437
+ Gauss (m=1)         : -0.341048
+ Gauss (m=3,v=1)     : 1.31813
+ Wigner(1,0.2)       : 1.01662
+ Wigner(1,0.2,1)     : 0.893918
+ Wigner2(1,0.2)      : 1.03873
+ Wigner2(1,0.2,1)    : 1.08296
+ IntFlat [0,99[      : 10
+ IntFlat [-99,37[    : -29
+ Poisson (m=3.0)     : 6
+ Binomial(n=1,p=0.5) : 0
+ Binomial(n=-5,p=0.3): -1
+ ChiSqr (a=1)        : 0.152852
+ ChiSqr (a=-5)       : -1
+ Gamma (k=1,l=1)     : 0.688196
+ Gamma (k=3,l=0.5)   : 4.04588
+ StudT (a=1)         : -4.46099
+ StudT (a=2.5)       : -0.211361
+
+ Shooting an array of 5 flat numbers ...
+
+ 0.59692 0.649783 0.0815703 0.588186 0.688171
+
+                   -----  Press <ENTER> to continue  -----
+---------------------------  Test on RandEngine  ------------------------------
+
+ Flat ]0,1[          : 0.841062
+ Flat ]0,5[          : 2.60138
+ Flat ]-5,3[         : -1.53801
+ Exp (m=1)           : 0.151086
+ Exp (m=3)           : 0.144759
+ Gauss (m=1)         : -0.914122
+ Gauss (m=3,v=1)     : 1.21595
+ Wigner(1,0.2)       : 1.04641
+ Wigner(1,0.2,1)     : 1.0142
+ Wigner2(1,0.2)      : 1.08603
+ Wigner2(1,0.2,1)    : 1.00424
+ IntFlat [0,99[      : 46
+ IntFlat [-99,37[    : -49
+ Poisson (m=3.0)     : 3
+ Binomial(n=1,p=0.5) : 0
+ Binomial(n=-5,p=0.3): -1
+ ChiSqr (a=1)        : 0.27534
+ ChiSqr (a=-5)       : -1
+ Gamma (k=1,l=1)     : 0.370257
+ Gamma (k=3,l=0.5)   : 7.94084
+ StudT (a=1)         : 0.404768
+ StudT (a=2.5)       : -0.640624
+
+ Shooting an array of 5 flat numbers ...
+
+ 0.389489 0.909045 0.234247 0.899955 0.343085
+
+                   -----  Press <ENTER> to continue  -----
+-------------------------  Test on DRand48Engine  -----------------------------
+
+ Flat ]0,1[          : 0.214428
+ Flat ]0,5[          : 1.42663
+ Flat ]-5,3[         : 2.87798
+ Exp (m=1)           : 1.03869
+ Exp (m=3)           : 0.312018
+ Gauss (m=1)         : -1.05692
+ Gauss (m=3,v=1)     : 3.68054
+ Wigner(1,0.2)       : 1.79274
+ Wigner(1,0.2,1)     : 0.772588
+ Wigner2(1,0.2)      : 1.01114
+ Wigner2(1,0.2,1)    : 1.15695
+ IntFlat [0,99[      : 28
+ IntFlat [-99,37[    : -35
+ Poisson (m=3.0)     : 0
+ Binomial(n=1,p=0.5) : 1
+ Binomial(n=-5,p=0.3): -1
+ ChiSqr (a=1)        : 0.0967427
+ ChiSqr (a=-5)       : -1
+ Gamma (k=1,l=1)     : 0.902826
+ Gamma (k=3,l=0.5)   : 6.3725
+ StudT (a=1)         : -4.17869
+ StudT (a=2.5)       : 2.98684
+
+ Shooting an array of 5 flat numbers ...
+
+ 0.650755 0.326655 0.944147 0.322484 0.825264
+
+                   -----  Press <ENTER> to continue  -----
+---------------------  Test on RanluxEngine (luxury 4) ------------------------
+
+ Flat ]0,1[          : 0.123445
+ Flat ]0,5[          : 0.405752
+ Flat ]-5,3[         : 0.246986
+ Exp (m=1)           : 0.867694
+ Exp (m=3)           : 2.26682
+ Gauss (m=1)         : 0.919506
+ Gauss (m=3,v=1)     : 2.46166
+ Wigner(1,0.2)       : 1.10718
+ Wigner(1,0.2,1)     : 0.956656
+ Wigner2(1,0.2)      : 0.942785
+ Wigner2(1,0.2,1)    : 1.03713
+ IntFlat [0,99[      : 61
+ IntFlat [-99,37[    : -50
+ Poisson (m=3.0)     : 4
+ Binomial(n=1,p=0.5) : 0
+ Binomial(n=-5,p=0.3): -1
+ ChiSqr (a=1)        : 0.801592
+ ChiSqr (a=-5)       : -1
+ Gamma (k=1,l=1)     : 0.0461941
+ Gamma (k=3,l=0.5)   : 5.13391
+ StudT (a=1)         : -0.316345
+ StudT (a=2.5)       : -2.55423
+
+ Shooting an array of 5 flat numbers ...
+
+ 0.319929 0.712376 0.911977 0.113667 0.417905
+
+                   -----  Press <ENTER> to continue  -----
+-------------------------  Test on Ranlux64Engine -----------------------------
+
+ Flat ]0,1[          : 0.985042
+ Flat ]0,5[          : 1.61159
+ Flat ]-5,3[         : -3.14254
+ Exp (m=1)           : 0.0202763
+ Exp (m=3)           : 2.1971
+ Gauss (m=1)         : 0.724381
+ Gauss (m=3,v=1)     : 5.42784
+ Wigner(1,0.2)       : 0.81913
+ Wigner(1,0.2,1)     : 0.96105
+ Wigner2(1,0.2)      : 1.06648
+ Wigner2(1,0.2,1)    : 1.19987
+ IntFlat [0,99[      : 73
+ IntFlat [-99,37[    : -12
+ Poisson (m=3.0)     : 2
+ Binomial(n=1,p=0.5) : 1
+ Binomial(n=-5,p=0.3): -1
+ ChiSqr (a=1)        : 0.202107
+ ChiSqr (a=-5)       : -1
+ Gamma (k=1,l=1)     : 0.422298
+ Gamma (k=3,l=0.5)   : 9.36025
+ StudT (a=1)         : 0.261184
+ StudT (a=2.5)       : -0.580462
+
+ Shooting an array of 5 flat numbers ...
+
+ 0.638899 0.00136121 0.458772 0.067748 0.55775
+
+                   -----  Press <ENTER> to continue  -----
+--------------------------  Test on RanecuEngine ------------------------------
+
+ Flat ]0,1[          : 0.154707
+ Flat ]0,5[          : 2.93557
+ Flat ]-5,3[         : 0.616469
+ Exp (m=1)           : 0.569162
+ Exp (m=3)           : 0.0352326
+ Gauss (m=1)         : -1.38011
+ Gauss (m=3,v=1)     : 3.11598
+ Wigner(1,0.2)       : 0.911468
+ Wigner(1,0.2,1)     : 0.900712
+ Wigner2(1,0.2)      : 0.966701
+ Wigner2(1,0.2,1)    : 1.021
+ IntFlat [0,99[      : 29
+ IntFlat [-99,37[    : -77
+ Poisson (m=3.0)     : 3
+ Binomial(n=1,p=0.5) : 0
+ Binomial(n=-5,p=0.3): -1
+ ChiSqr (a=1)        : 2.05978
+ ChiSqr (a=-5)       : -1
+ Gamma (k=1,l=1)     : 2.356
+ Gamma (k=3,l=0.5)   : 4.36043
+ StudT (a=1)         : 9.91129
+ StudT (a=2.5)       : 0.484411
+
+ Shooting an array of 5 flat numbers ...
+
+ 0.0250702 0.420098 0.651739 0.268053 0.943555
+
+                   -----  Press <ENTER> to continue  -----
+-------------------------  Test on Hurd160Engine ------------------------------
+
+ Flat ]0,1[          : 0.104097
+ Flat ]0,5[          : 4.92875
+ Flat ]-5,3[         : -0.070816
+ Exp (m=1)           : 1.15158
+ Exp (m=3)           : 9.52194
+ Gauss (m=1)         : 0.905565
+ Gauss (m=3,v=1)     : 1.93347
+ Wigner(1,0.2)       : 0.996247
+ Wigner(1,0.2,1)     : 0.998766
+ Wigner2(1,0.2)      : 0.868206
+ Wigner2(1,0.2,1)    : 1.09077
+ IntFlat [0,99[      : 48
+ IntFlat [-99,37[    : -59
+ Poisson (m=3.0)     : 4
+ Binomial(n=1,p=0.5) : 0
+ Binomial(n=-5,p=0.3): -1
+ ChiSqr (a=1)        : 0.25564
+ ChiSqr (a=-5)       : -1
+ Gamma (k=1,l=1)     : 0.00243444
+ Gamma (k=3,l=0.5)   : 2.91267
+ StudT (a=1)         : 1.09971
+ StudT (a=2.5)       : 0.208385
+
+ Shooting an array of 5 flat numbers ...
+
+ 0.52353 0.754777 0.119422 0.0672459 0.819637
+
+                   -----  Press <ENTER> to continue  -----
+-------------------------  Test on Hurd288Engine ------------------------------
+
+ Flat ]0,1[          : 0.942396
+ Flat ]0,5[          : 2.4156
+ Flat ]-5,3[         : 0.947816
+ Exp (m=1)           : 1.11364
+ Exp (m=3)           : 1.4865
+ Gauss (m=1)         : -0.240917
+ Gauss (m=3,v=1)     : 4.50724
+ Wigner(1,0.2)       : 1.18618
+ Wigner(1,0.2,1)     : 1.0058
+ Wigner2(1,0.2)      : 1.04749
+ Wigner2(1,0.2,1)    : 0.570824
+ IntFlat [0,99[      : 36
+ IntFlat [-99,37[    : -8
+ Poisson (m=3.0)     : 1
+ Binomial(n=1,p=0.5) : 0
+ Binomial(n=-5,p=0.3): -1
+ ChiSqr (a=1)        : 0.0623865
+ ChiSqr (a=-5)       : -1
+ Gamma (k=1,l=1)     : 1.37077
+ Gamma (k=3,l=0.5)   : 4.13377
+ StudT (a=1)         : -1.01675
+ StudT (a=2.5)       : -0.730699
+
+ Shooting an array of 5 flat numbers ...
+
+ 0.688672 0.864462 0.535439 0.09753 0.919687
+
+                   -----  Press <ENTER> to continue  -----
+--------------------------  Test on MTwistEngine ------------------------------
+
+ Flat ]0,1[          : 0.176117
+ Flat ]0,5[          : 0.101418
+ Flat ]-5,3[         : 1.90606
+ Exp (m=1)           : 2.12904
+ Exp (m=3)           : 2.30604
+ Gauss (m=1)         : -0.85285
+ Gauss (m=3,v=1)     : 3.14988
+ Wigner(1,0.2)       : 1.11898
+ Wigner(1,0.2,1)     : 1.01213
+ Wigner2(1,0.2)      : 0.988002
+ Wigner2(1,0.2,1)    : 0.546862
+ IntFlat [0,99[      : 28
+ IntFlat [-99,37[    : -67
+ Poisson (m=3.0)     : 2
+ Binomial(n=1,p=0.5) : 0
+ Binomial(n=-5,p=0.3): -1
+ ChiSqr (a=1)        : 0.0159581
+ ChiSqr (a=-5)       : -1
+ Gamma (k=1,l=1)     : 0.973209
+ Gamma (k=3,l=0.5)   : 4.07356
+ StudT (a=1)         : -2.16803
+ StudT (a=2.5)       : -1.19112
+
+ Shooting an array of 5 flat numbers ...
+
+ 0.80256 0.582024 0.362318 0.249103 0.573408
+
+                   -----  Press <ENTER> to continue  -----
+--------------------------  Test on RanshiEngine ------------------------------
+
+ Flat ]0,1[          : 0.989873
+ Flat ]0,5[          : 1.80772
+ Flat ]-5,3[         : 0.929185
+ Exp (m=1)           : 0.109179
+ Exp (m=3)           : 0.235099
+ Gauss (m=1)         : -0.383931
+ Gauss (m=3,v=1)     : 3.02589
+ Wigner(1,0.2)       : 1.01095
+ Wigner(1,0.2,1)     : 0.916181
+ Wigner2(1,0.2)      : 1.17844
+ Wigner2(1,0.2,1)    : 0.944666
+ IntFlat [0,99[      : 77
+ IntFlat [-99,37[    : -80
+ Poisson (m=3.0)     : 2
+ Binomial(n=1,p=0.5) : 0
+ Binomial(n=-5,p=0.3): -1
+ ChiSqr (a=1)        : 0.512694
+ ChiSqr (a=-5)       : -1
+ Gamma (k=1,l=1)     : 0.426787
+ Gamma (k=3,l=0.5)   : 8.63837
+ StudT (a=1)         : 1.92537
+ StudT (a=2.5)       : 0.774763
+
+ Shooting an array of 5 flat numbers ...
+
+ 0.943761 0.301697 0.93461 0.452755 0.532951
+
+                   -----  Press <ENTER> to continue  -----
+-------------------------  Test on DualRandEngine -----------------------------
+
+ Flat ]0,1[          : 0.412678
+ Flat ]0,5[          : 4.57957
+ Flat ]-5,3[         : 1.18357
+ Exp (m=1)           : 1.91764
+ Exp (m=3)           : 3.35277
+ Gauss (m=1)         : 0.842953
+ Gauss (m=3,v=1)     : 3.49209
+ Wigner(1,0.2)       : 1.02434
+ Wigner(1,0.2,1)     : 1.00733
+ Wigner2(1,0.2)      : 0.816813
+ Wigner2(1,0.2,1)    : 1.08187
+ IntFlat [0,99[      : 90
+ IntFlat [-99,37[    : -36
+ Poisson (m=3.0)     : 1
+ Binomial(n=1,p=0.5) : 0
+ Binomial(n=-5,p=0.3): -1
+ ChiSqr (a=1)        : 0.00376792
+ ChiSqr (a=-5)       : -1
+ Gamma (k=1,l=1)     : 1.68493
+ Gamma (k=3,l=0.5)   : 6.38795
+ StudT (a=1)         : -2.2853
+ StudT (a=2.5)       : 0.239909
+
+ Shooting an array of 5 flat numbers ...
+
+ 0.41501 0.468825 0.155669 0.318088 0.22785
+
+                   -----  Press <ENTER> to continue  -----
+------------------------  Test on TripleRandEngine ----------------------------
+
+ Flat ]0,1[          : 0.838579
+ Flat ]0,5[          : 0.67766
+ Flat ]-5,3[         : -4.2233
+ Exp (m=1)           : 0.210915
+ Exp (m=3)           : 3.93957
+ Gauss (m=1)         : 0.413731
+ Gauss (m=3,v=1)     : 2.59147
+ Wigner(1,0.2)       : 0.977647
+ Wigner(1,0.2,1)     : 1.01147
+ Wigner2(1,0.2)      : 1.07469
+ Wigner2(1,0.2,1)    : 1.28052
+ IntFlat [0,99[      : 65
+ IntFlat [-99,37[    : 6
+ Poisson (m=3.0)     : 0
+ Binomial(n=1,p=0.5) : 1
+ Binomial(n=-5,p=0.3): -1
+ ChiSqr (a=1)        : 2.04945
+ ChiSqr (a=-5)       : -1
+ Gamma (k=1,l=1)     : 1.67962
+ Gamma (k=3,l=0.5)   : 8.57472
+ StudT (a=1)         : 1.11275
+ StudT (a=2.5)       : 1.93997
+
+ Shooting an array of 5 flat numbers ...
+
+ 0.237314 0.526287 0.530055 0.106559 0.870401
+
+                   -----  Press <ENTER> to continue  -----
+
+-------------------- Shooting test on distribution objects --------------------
+
+ Flat ]0,1[          : 0.837788
+ Flat ]0,5[          : 2.97008
+ Flat ]-5,3[         : -2.35252
+ Exp (m=1)           : 0.73439
+ Exp (m=3)           : 1.1189
+ Gauss (m=1)         : -0.368401
+ Gauss (m=3,v=1)     : 2.30254
+ Wigner(1,0.2)       : 0.755202
+ Wigner(1,0.2,1)     : 0.71589
+ Wigner2(1,0.2)      : 1.06053
+ Wigner2(1,0.2,1)    : 0.983204
+ IntFlat [0,99[      : 66
+ IntFlat [-99,37[    : 5
+ Poisson (m=3.0)     : 3
+ Binomial(n=1,p=0.5) : 0
+ Binomial(n=-5,p=0.3): -1
+ ChiSqr (a=1)        : 1.14188
+ ChiSqr (a=-5)       : -1
+ Gamma (k=1,l=1)     : 0.569466
+ Gamma (k=3,l=0.5)   : 6.25001
+ StudT (a=1)         : -1.39182
+ StudT (a=2.5)       : 0.0413162
+
+ Shooting an array of 5 flat numbers ...
+
+ 0.875564 0.780428 0.0335104 0.881222 0.606802
+
+                   -----  Press <ENTER> to continue  -----

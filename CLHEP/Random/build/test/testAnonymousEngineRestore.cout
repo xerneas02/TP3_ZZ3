@@ -1,0 +1,225 @@
+
+=================================
+         Part VII 
+Anonymous restore of engines 
+=================================
+
+Anonymous restore for DualRand
+First four of v are: 0.703768,  0.948258,  0.102866,  0.870594
+First four of k are: 0.703768,  0.948258,  0.102866,  0.870594
+Anonymous restore for DRand48Engine
+First four of v are: 0.87115,  0.457641,  0.860413,  0.120894
+First four of k are: 0.87115,  0.457641,  0.860413,  0.120894
+Anonymous restore for Hurd160Engine
+First four of v are: 0.564727,  0.366573,  0.211764,  0.756587
+First four of k are: 0.564727,  0.366573,  0.211764,  0.756587
+Anonymous restore for Hurd288Engine
+First four of v are: 0.968759,  0.88838,  0.189191,  0.317151
+First four of k are: 0.968759,  0.88838,  0.189191,  0.317151
+Anonymous restore for HepJamesRandom
+First four of v are: 0.720395,  0.0633485,  0.797605,  0.586606
+First four of k are: 0.720395,  0.0633485,  0.797605,  0.586606
+Anonymous restore for MTwistEngine
+First four of v are: 0.908327,  0.0923904,  0.667691,  0.482017
+First four of k are: 0.908327,  0.0923904,  0.667691,  0.482017
+Anonymous restore for RandEngine
+First four of v are: 0.114478,  0.238753,  0.515601,  0.0448474
+First four of k are: 0.114478,  0.238753,  0.515601,  0.0448474
+Anonymous restore for RanecuEngine
+First four of v are: 0.826216,  0.380439,  0.883372,  0.0629715
+First four of k are: 0.826216,  0.380439,  0.883372,  0.0629715
+Anonymous restore for Ranlux64Engine
+First four of v are: 0.0524213,  0.0101267,  0.136341,  0.516374
+First four of k are: 0.0524213,  0.0101267,  0.136341,  0.516374
+Anonymous restore for RanluxEngine
+First four of v are: 0.752626,  0.532837,  0.719515,  0.940242
+First four of k are: 0.752626,  0.532837,  0.719515,  0.940242
+Anonymous restore for RanshiEngine
+First four of v are: 0.509897,  0.464118,  0.235981,  0.370759
+First four of k are: 0.509897,  0.464118,  0.235981,  0.370759
+Anonymous restore for TripleRand
+First four of v are: 0.692674,  0.503082,  0.187812,  0.654011
+First four of k are: 0.692674,  0.503082,  0.187812,  0.654011
+Anonymous restore for NonRandomEngine
+First four of v are: 0.513967,  0.243438,  0.333058,  0.762217
+First four of k are: 0.513967,  0.243438,  0.333058,  0.762217
+
+======================================
+             Part VIII 
+Anonymous restore static Distributions 
+======================================
+
+
+Randomized, with theEngine = DualRand
+Saved all static distributions
+Captured output of all static distributions
+Switched to theEngine = Ranlux64Engine
+Saved the Ranlux64Engine engine: 
+Next randoms to be 0.311874 0.692035
+Restored the Ranlux64Engine engine to that state
+Restored all static distributions to saved state
+This changes the engine type back to DualRand
+Captured output of all static distributions
+The Ranlux64Engine engine should not have been affected: 
+Next randoms  are  0.311874 0.692035
+
+Randomized, with theEngine = DRand48Engine
+Saved all static distributions
+Captured output of all static distributions
+Switched to theEngine = TripleRand
+Saved the TripleRand engine: 
+Next randoms to be 0.293283 0.668083
+Restored the TripleRand engine to that state
+Restored all static distributions to saved state
+This changes the engine type back to DRand48Engine
+Captured output of all static distributions
+The TripleRand engine should not have been affected: 
+Next randoms  are  0.293283 0.668083
+
+Randomized, with theEngine = RandEngine
+Saved all static distributions
+Captured output of all static distributions
+Switched to theEngine = Ranlux64Engine
+Saved the Ranlux64Engine engine: 
+Next randoms to be 0.311874 0.692035
+Restored the Ranlux64Engine engine to that state
+Restored all static distributions to saved state
+This changes the engine type back to RandEngine
+Captured output of all static distributions
+The Ranlux64Engine engine should not have been affected: 
+Next randoms  are  0.311874 0.692035
+
+Randomized, with theEngine = MTwistEngine
+Saved all static distributions
+Captured output of all static distributions
+Switched to theEngine = Hurd288Engine
+Saved the Hurd288Engine engine: 
+Next randoms to be 0.705853 0.745018
+Restored the Hurd288Engine engine to that state
+Restored all static distributions to saved state
+This changes the engine type back to MTwistEngine
+Captured output of all static distributions
+The Hurd288Engine engine should not have been affected: 
+Next randoms  are  0.705853 0.745018
+
+Randomized, with theEngine = RanecuEngine
+Saved all static distributions
+Captured output of all static distributions
+Switched to theEngine = MTwistEngine
+Saved the MTwistEngine engine: 
+Next randoms to be 0.741171 0.0271427
+Restored the MTwistEngine engine to that state
+Restored all static distributions to saved state
+This changes the engine type back to RanecuEngine
+Captured output of all static distributions
+The MTwistEngine engine should not have been affected: 
+Next randoms  are  0.741171 0.0271427
+
+Randomized, with theEngine = HepJamesRandom
+Saved all static distributions
+Captured output of all static distributions
+Switched to theEngine = RanshiEngine
+Saved the RanshiEngine engine: 
+Next randoms to be 0.217291 0.416474
+Restored the RanshiEngine engine to that state
+Restored all static distributions to saved state
+This changes the engine type back to HepJamesRandom
+Captured output of all static distributions
+The RanshiEngine engine should not have been affected: 
+Next randoms  are  0.217291 0.416474
+
+Randomized, with theEngine = RanecuEngine
+Saved all static distributions
+Captured output of all static distributions
+Switched to theEngine = RandEngine
+Saved the RandEngine engine: 
+Next randoms to be 0.556264 0.140713
+Restored the RandEngine engine to that state
+Restored all static distributions to saved state
+This changes the engine type back to RanecuEngine
+Captured output of all static distributions
+The RandEngine engine should not have been affected: 
+Next randoms  are  0.556264 0.140713
+
+Randomized, with theEngine = RanshiEngine
+Saved all static distributions
+Captured output of all static distributions
+Switched to theEngine = Hurd160Engine
+Saved the Hurd160Engine engine: 
+Next randoms to be 0.65296 0.598682
+Restored the Hurd160Engine engine to that state
+Restored all static distributions to saved state
+This changes the engine type back to RanshiEngine
+Captured output of all static distributions
+The Hurd160Engine engine should not have been affected: 
+Next randoms  are  0.65296 0.598682
+
+Randomized, with theEngine = TripleRand
+Saved all static distributions
+Captured output of all static distributions
+Switched to theEngine = DualRand
+Saved the DualRand engine: 
+Next randoms to be 0.0743101 0.868146
+Restored the DualRand engine to that state
+Restored all static distributions to saved state
+This changes the engine type back to TripleRand
+Captured output of all static distributions
+The DualRand engine should not have been affected: 
+Next randoms  are  0.0743101 0.868146
+
+Randomized, with theEngine = Hurd160Engine
+Saved all static distributions
+Captured output of all static distributions
+Switched to theEngine = HepJamesRandom
+Saved the HepJamesRandom engine: 
+Next randoms to be 0.87932 0.439147
+Restored the HepJamesRandom engine to that state
+Restored all static distributions to saved state
+This changes the engine type back to Hurd160Engine
+Captured output of all static distributions
+The HepJamesRandom engine should not have been affected: 
+Next randoms  are  0.87932 0.439147
+
+Randomized, with theEngine = Hurd288Engine
+Saved all static distributions
+Captured output of all static distributions
+Switched to theEngine = RanecuEngine
+Saved the RanecuEngine engine: 
+Next randoms to be 0.212449 0.180127
+Restored the RanecuEngine engine to that state
+Restored all static distributions to saved state
+This changes the engine type back to Hurd288Engine
+Captured output of all static distributions
+The RanecuEngine engine should not have been affected: 
+Next randoms  are  0.212449 0.180127
+
+Randomized, with theEngine = HepJamesRandom
+Saved all static distributions
+Captured output of all static distributions
+Switched to theEngine = Ranlux64Engine
+Saved the Ranlux64Engine engine: 
+Next randoms to be 0.311874 0.692035
+Restored the Ranlux64Engine engine to that state
+Restored all static distributions to saved state
+This changes the engine type back to HepJamesRandom
+Captured output of all static distributions
+The Ranlux64Engine engine should not have been affected: 
+Next randoms  are  0.311874 0.692035
+
+Randomized, with theEngine = TripleRand
+Saved all static distributions
+Captured output of all static distributions
+Randomized all static distributions
+Restored all static distributions to saved state
+Captured output of all static distributions
+
+Randomized, with theEngine = HepJamesRandom
+Saved all static distributions
+Captured output of all static distributions
+Randomized all static distributions
+Restored all static distributions to saved state
+Captured output of all static distributions
+
+=============================================
+
+testAnonymousEngineRestore passed with no problems detected.

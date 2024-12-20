@@ -1,0 +1,48 @@
+=====================================
+             Part I 
+Original tests of static save/restore
+=====================================
+
+Using old method or HepRandom::saveEngineStatus:
+All these tests should have a chance of failure.
+HepJamesRandomHepJamesRandomr(1) = -0.876598
+r(2) = -1.40295
+r(3) = -0.0889336
+r1005= 0.704778
+restored r(2) = -0.0889336
+THIS DOES NOT MATCH REMEMBERED VALUE BUT THAT IS EXPECTED
+restored r(3) = 0.17825
+restored r1005= -0.308614
+THIS DOES NOT MATCH REMEMBERED VALUE BUT THAT IS EXPECTED
+r(1) = 1
+r(2) = 0
+r(3) = 1
+r1005= 1
+restored r(2) = 0
+restored r(3) = 1
+restored r1005= 0
+THIS DOES NOT MATCH REMEMBERED VALUE BUT THAT IS EXPECTED
+Using the class-specific RandGauss::saveEngineStatus:
+All these tests should work properly.
+r(1) = 0.562165
+r(2) = -0.0523297
+r(3) = -0.0343245
+r1005= -0.778849
+restored r(2) = -0.0523297
+restored r(3) = -0.0343245
+restored r1005= -0.778849
+r(1) = 1
+r(2) = 0
+r(3) = 0
+r1005 = 0
+r1006 = 1
+r1007 = 0
+restored r(2) = 0
+restored r(3) = 0
+restored r1005= 0
+restored r1006= 1
+restored r1007= 0
+
+=============================================
+
+testSaveEngineStatus passed with no problems detected.

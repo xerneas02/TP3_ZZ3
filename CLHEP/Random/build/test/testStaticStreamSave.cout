@@ -1,0 +1,171 @@
+
+=========================================
+              Part V 
+Static Save/restore to/from streams 
+=========================================
+
+staticSave for distribution RandGauss
+v1 = -1.6818724665948172614  v2 = -1.4876575132196028228
+k1 = -1.6818724665948172614  k2 = -1.4876575132196028228
+v1 = 1.3930292305987537205  v2 = -0.54359558353300718725
+k1 = 1.3930292305987537205  k2 = -0.54359558353300718725
+staticSave for distribution RandFlat
+v1 = 0.086593270301818847656  v2 = 0.54280507564544677734
+k1 = 0.086593270301818847656  k2 = 0.54280507564544677734
+v1 = 0.59006476402282714844  v2 = 0.47943782806396484375
+k1 = 0.59006476402282714844  k2 = 0.47943782806396484375
+staticSaveShootBit for RandFlat
+v1 = 1fe78f7  v2 = 15142f5
+k1 = 1fe78f7  k2 = 15142f5
+v1 = 10c8596  v2 = 6ac82
+k1 = 10c8596  k2 = 6ac82
+staticSaveShootBit for RandBit
+v1 = 44cbbf  v2 = 1c18bb6
+k1 = 44cbbf  k2 = 1c18bb6
+v1 = 9413ce  v2 = 88883a
+k1 = 9413ce  k2 = 88883a
+staticSave for distribution RandBinomial
+v1 = 1  v2 = 1
+k1 = 1  k2 = 1
+v1 = 0  v2 = 0
+k1 = 0  k2 = 0
+staticSave for distribution RandBinomial
+v1 = 0  v2 = 0
+k1 = 0  k2 = 0
+v1 = 0  v2 = 1
+k1 = 0  k2 = 1
+staticSave for distribution RandBinomial
+v1 = 1  v2 = 1
+k1 = 1  k2 = 1
+v1 = 1  v2 = 0
+k1 = 1  k2 = 0
+staticSave for distribution RandBinomial
+v1 = 1  v2 = 0
+k1 = 1  k2 = 0
+v1 = 0  v2 = 0
+k1 = 0  k2 = 0
+staticSave for distribution RandBinomial
+v1 = 0  v2 = 1
+k1 = 0  k2 = 1
+v1 = 1  v2 = 0
+k1 = 1  k2 = 0
+staticSave for distribution RandBinomial
+v1 = 1  v2 = 1
+k1 = 1  k2 = 1
+v1 = 0  v2 = 1
+k1 = 0  k2 = 1
+staticSave for distribution RandBinomial
+v1 = 1  v2 = 1
+k1 = 1  k2 = 1
+v1 = 1  v2 = 1
+k1 = 1  k2 = 1
+staticSave for distribution RandBinomial
+v1 = 0  v2 = 0
+k1 = 0  k2 = 0
+v1 = 0  v2 = 1
+k1 = 0  k2 = 1
+staticSave for distribution RandBinomial
+v1 = 1  v2 = 0
+k1 = 1  k2 = 0
+v1 = 0  v2 = 1
+k1 = 0  k2 = 1
+staticSave for distribution RandBinomial
+v1 = 0  v2 = 1
+k1 = 0  k2 = 1
+v1 = 1  v2 = 1
+k1 = 1  k2 = 1
+staticSave for distribution RandBinomial
+v1 = 0  v2 = 1
+k1 = 0  k2 = 1
+v1 = 0  v2 = 0
+k1 = 0  k2 = 0
+staticSave for distribution RandBinomial
+v1 = 0  v2 = 0
+k1 = 0  k2 = 0
+v1 = 1  v2 = 0
+k1 = 1  k2 = 0
+staticSave for distribution RandBinomial
+v1 = 1  v2 = 0
+k1 = 1  k2 = 0
+v1 = 1  v2 = 0
+k1 = 1  k2 = 0
+staticSave for distribution RandBinomial
+v1 = 1  v2 = 1
+k1 = 1  k2 = 1
+v1 = 0  v2 = 1
+k1 = 0  k2 = 1
+staticSave for distribution RandBinomial
+v1 = 1  v2 = 0
+k1 = 1  k2 = 0
+v1 = 1  v2 = 1
+k1 = 1  k2 = 1
+staticSave for distribution RandBreitWigner
+v1 = 1.0587667674045631028  v2 = 0.94074919897257058832
+k1 = 1.0587667674045631028  k2 = 0.94074919897257058832
+v1 = 0.97262738331165821126  v2 = 1.1979472907466861553
+k1 = 0.97262738331165821126  k2 = 1.1979472907466861553
+staticSave for distribution RandChiSquare
+v1 = 1.0033636475232832197  v2 = 1.0307523299576921705
+k1 = 1.0033636475232832197  k2 = 1.0307523299576921705
+v1 = 0.045220320944707140254  v2 = 0.12493913865211379866
+k1 = 0.045220320944707140254  k2 = 0.12493913865211379866
+staticSave for distribution RandExponential
+v1 = 1.8585225239640352779  v2 = 0.09091724711923676594
+k1 = 1.8585225239640352779  k2 = 0.09091724711923676594
+v1 = 0.27441105604564797193  v2 = 0.4963558528251461599
+k1 = 0.27441105604564797193  k2 = 0.4963558528251461599
+staticSave for distribution RandGamma
+v1 = 0.86855782067679576652  v2 = 1.3573890027830195493
+k1 = 0.86855782067679576652  k2 = 1.3573890027830195493
+v1 = 0.31471989424660934409  v2 = 1.8650260387255410688
+k1 = 0.31471989424660934409  k2 = 1.8650260387255410688
+staticSave for distribution RandGaussQ
+v1 = 0.45002010464668273926  v2 = -1.2938418388366699219
+k1 = 0.45002010464668273926  k2 = -1.2938418388366699219
+v1 = 0.52041661739349365234  v2 = -0.18142206966876983643
+k1 = 0.52041661739349365234  k2 = -0.18142206966876983643
+staticSave for distribution RandGaussT
+v1 = -0.37803574102384090994  v2 = 0.56522374625758320388
+k1 = -0.37803574102384090994  k2 = 0.56522374625758320388
+v1 = 0.45546085495723503955  v2 = -0.4981180881108855929
+k1 = 0.45546085495723503955  k2 = -0.4981180881108855929
+staticSave for distribution RandLandau
+v1 = -2.1763496372877835228  v2 = -1.7419089401143339479
+k1 = -2.1763496372877835228  k2 = -1.7419089401143339479
+v1 = -1.1006766072003562051  v2 = -1.1245554359351179752
+k1 = -1.1006766072003562051  k2 = -1.1245554359351179752
+staticSave for distribution RandPoisson
+v1 = 1  v2 = 0
+k1 = 1  k2 = 0
+v1 = 1  v2 = 0
+k1 = 1  k2 = 0
+staticSave for distribution RandPoissonQ
+v1 = 0  v2 = 0
+k1 = 0  k2 = 0
+v1 = 2  v2 = 3
+k1 = 2  k2 = 3
+staticSave for distribution RandPoissonT
+v1 = 0  v2 = 1
+k1 = 0  k2 = 1
+v1 = 4  v2 = 1
+k1 = 4  k2 = 1
+staticSave for distribution RandStudentT
+v1 = -3.115058379876646022  v2 = -0.31845249462065949864
+k1 = -3.115058379876646022  k2 = -0.31845249462065949864
+v1 = -0.49296134633009464077  v2 = 0.77192503159543390812
+k1 = -0.49296134633009464077  k2 = 0.77192503159543390812
+
+==============================================
+                 Part VI  
+Save/restore all static states to/from streams 
+==============================================
+
+Saved all static distributions
+Captured output of all static distributions
+Randomized all static distributions
+Restored all static distributions to saved state
+Captured output of all static distributions
+
+=============================================
+
+testStaticStreamSave passed with no problems detected.

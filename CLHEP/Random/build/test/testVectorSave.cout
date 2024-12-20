@@ -1,0 +1,49 @@
+
+=================================
+         Part IX 
+Save/restore of engines to vectors
+=================================
+
+Vector restore for DualRand
+First four of v are: 0.813209,  0.723301,  0.877949,  0.804051
+First four of k are: 0.813209,  0.723301,  0.877949,  0.804051
+Vector restore for DRand48Engine
+First four of v are: 0.859333,  0.520363,  0.236438,  0.192405
+First four of k are: 0.859333,  0.520363,  0.236438,  0.192405
+Vector restore for Hurd160Engine
+First four of v are: 0.130107,  0.290368,  0.837719,  0.393615
+First four of k are: 0.130107,  0.290368,  0.837719,  0.393615
+Vector restore for Hurd288Engine
+First four of v are: 0.725054,  0.502808,  0.937201,  0.866078
+First four of k are: 0.725054,  0.502808,  0.937201,  0.866078
+Vector restore for HepJamesRandom
+First four of v are: 0.0994889,  0.821015,  0.0211394,  0.923887
+First four of k are: 0.0994889,  0.821015,  0.0211394,  0.923887
+Vector restore for MTwistEngine
+First four of v are: 0.963835,  0.557796,  0.874325,  0.336744
+First four of k are: 0.963835,  0.557796,  0.874325,  0.336744
+Vector restore for RanecuEngine
+First four of v are: 0.843195,  0.636251,  0.34767,  0.724265
+First four of k are: 0.843195,  0.636251,  0.34767,  0.724265
+Vector restore for Ranlux64Engine
+First four of v are: 0.438795,  0.933054,  0.114244,  0.897386
+First four of k are: 0.438795,  0.933054,  0.114244,  0.897386
+Vector restore for RanluxEngine
+First four of v are: 0.0645283,  0.160238,  0.0113649,  0.55317
+First four of k are: 0.0645283,  0.160238,  0.0113649,  0.55317
+Vector restore for RanshiEngine
+First four of v are: 0.712031,  0.313,  0.882131,  0.298194
+First four of k are: 0.712031,  0.313,  0.882131,  0.298194
+Vector restore for TripleRand
+First four of v are: 0.143765,  0.118906,  0.586947,  0.35988
+First four of k are: 0.143765,  0.118906,  0.586947,  0.35988
+Vector restore for NonRandomEngine
+First four of v are: 0.00850429,  0.543662,  0.573136,  0.528222
+First four of k are: 0.00850429,  0.543662,  0.573136,  0.528222
+Vector restore for RandEngine
+First four of v are: 0.130892,  0.0447828,  0.0235752,  0.936297
+First four of k are: 0.130892,  0.0447828,  0.0235752,  0.936297
+
+=============================================
+
+ranRestoreTest passed with no problems detected.

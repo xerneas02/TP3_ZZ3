@@ -1,0 +1,1730 @@
+
+=============================================
+              Part II 
+Check all engine names were entered correctly 
+=============================================
+
+DRand48Engine
+DualRand
+Hurd160Engine
+Hurd288Engine
+HepJamesRandom
+MTwistEngine
+RandEngine
+RanecuEngine
+Ranlux64Engine
+RanluxEngine
+RanshiEngine
+TripleRand
+===========================================
+
+              Part III
+Check instance methods for specific engines 
+     specific engines and distributions
+===========================================
+
+checkEngineInstanceSave for DualRand
+0.9448608230872602709 0.045829448211527290535
+0.9448608230872602709 0.045829448211527290535
+checkEngineInstanceSave for Hurd160Engine
+0.8194174187188900671 0.35746572529844616861
+0.8194174187188900671 0.35746572529844616861
+checkEngineInstanceSave for Hurd288Engine
+0.81392130115025973502 0.025209079869591921597
+0.81392130115025973502 0.025209079869591921597
+checkEngineInstanceSave for HepJamesRandom
+0.53471350669860839844 0.30737459659576416016
+0.53471350669860839844 0.30737459659576416016
+checkEngineInstanceSave for MTwistEngine
+0.42167792433014456011 0.76942711924782780653
+0.42167792433014456011 0.76942711924782780653
+checkEngineInstanceSave for RandEngine
+0.63442331529222428799 0.049140504561364650726
+0.63442331529222428799 0.049140504561364650726
+checkEngineInstanceSave for RanecuEngine
+0.12290740844695711986 0.21462687792575904644
+0.12290740844695711986 0.21462687792575904644
+checkEngineInstanceSave for Ranlux64Engine
+0.65333403339231388429 0.29599806675802575739
+0.65333403339231388429 0.29599806675802575739
+checkEngineInstanceSave for RanluxEngine
+0.097744882106781005859 0.39573872089385986328
+0.097744882106781005859 0.39573872089385986328
+checkEngineInstanceSave for RanshiEngine
+0.47750493882885097774 0.42153834203948298276
+0.47750493882885097774 0.42153834203948298276
+checkEngineInstanceSave for TripleRand
+0.49131685203432923226 0.49341575713699620254
+0.49131685203432923226 0.49341575713699620254
+checkEngineInstanceSave for NonRandomEngine
+0.74605128221227545726 0.56501131086767231171
+0.74605128221227545726 0.56501131086767231171
+checkSaveDistribution with DualRand, RandGauss
+keyValue1 = 97.145500203403130968  keyValue2 = 99.534654791110966698
+keyValue3 = 100.99533636802790681  keyValue3 = 95.295790961624632587
+k1 =        97.145500203403130968  k2 =        99.534654791110966698
+k3 =        100.99533636802790681  k4 =        95.295790961624632587
+checkSaveDistribution with DualRand, RandGauss
+keyValue1 = 97.327126318314910236  keyValue2 = 97.769851253916854716
+keyValue3 = 93.344654689042187101  keyValue3 = 108.5822063704004421
+k1 =        97.327126318314910236  k2 =        97.769851253916854716
+k3 =        93.344654689042187101  k4 =        108.5822063704004421
+checkSaveDistribution with DualRand, RandGaussQ
+keyValue1 = 5.1065196990966796875  keyValue2 = 10.323458641767501831
+keyValue3 = 10.559245049953460693  keyValue3 = 4.6939840316772460938
+k1 =        5.1065196990966796875  k2 =        10.323458641767501831
+k3 =        10.559245049953460693  k4 =        4.6939840316772460938
+checkSaveDistribution with DualRand, RandGaussT
+keyValue1 = 2.5238490547991978552  keyValue2 = 7.3242042602297221521
+keyValue3 = 3.5895019368677520966  keyValue3 = 7.7974249959647892183
+k1 =        2.5238490547991978552  k2 =        7.3242042602297221521
+k3 =        3.5895019368677520966  k4 =        7.7974249959647892183
+checkSaveDistribution with DualRand, RandBinomial
+keyValue1 = 2  keyValue2 = 2
+keyValue3 = 1  keyValue3 = 4
+k1 =        2  k2 =        2
+k3 =        1  k4 =        4
+checkSaveDistribution with DualRand, RandFlat
+keyValue1 = 18.896100613866792628  keyValue2 = 15.776115922166582095
+keyValue3 = 28.853855979761060979  keyValue3 = 12.896240038530232042
+k1 =        18.896100613866792628  k2 =        15.776115922166582095
+k3 =        28.853855979761060979  k4 =        12.896240038530232042
+checkSaveDistribution with DualRand, RandBit
+keyValue1 = 0.74035382791377979395  keyValue2 = 0.59331024218836592166
+keyValue3 = 0.35453655538862999252  keyValue3 = 0.5749979029477819692
+k1 =        0.74035382791377979395  k2 =        0.59331024218836592166
+k3 =        0.35453655538862999252  k4 =        0.5749979029477819692
+checkSaveDistribution with DualRand, RandBit
+keyValue1 = 0.86164039509781442661  keyValue2 = 0.95187641295913283379
+keyValue3 = 0.95948256907554618778  keyValue3 = 0.54411779728173281789
+k1 =        0.86164039509781442661  k2 =        0.95187641295913283379
+k3 =        0.95948256907554618778  k4 =        0.54411779728173281789
+checkSaveDistribution with DualRand, RandBit
+keyValue1 = 0.61467039701930559215  keyValue2 = 0.96216749894371844665
+keyValue3 = 0.53367749146173459884  keyValue3 = 0.28747590235939107783
+k1 =        0.61467039701930559215  k2 =        0.96216749894371844665
+k3 =        0.53367749146173459884  k4 =        0.28747590235939107783
+checkSaveDistribution with DualRand, RandBreitWigner
+keyValue1 = 44.041659118581620191  keyValue2 = 97.706837725074933587
+keyValue3 = 49.039009540925015074  keyValue3 = 49.284699809015826588
+k1 =        44.041659118581620191  k2 =        97.706837725074933587
+k3 =        49.039009540925015074  k4 =        49.284699809015826588
+checkSaveDistribution with DualRand, RandChiSquare
+keyValue1 = 4.3350992970623920542  keyValue2 = 4.8468366811719798548
+keyValue3 = 1.0148509615324734501  keyValue3 = 2.3987863384793168819
+k1 =        4.3350992970623920542  k2 =        4.8468366811719798548
+k3 =        1.0148509615324734501  k4 =        2.3987863384793168819
+checkSaveDistribution with DualRand, RandExponential
+keyValue1 = 7.0459912664428996365  keyValue2 = 2.8088795771798062972
+keyValue3 = 4.08638815433023872  keyValue3 = 1.3317452982110686843
+k1 =        7.0459912664428996365  k2 =        2.8088795771798062972
+k3 =        4.08638815433023872  k4 =        1.3317452982110686843
+checkSaveDistribution with DualRand, RandGamma
+keyValue1 = 3.9418919281604867244  keyValue2 = 2.4153952781914744818
+keyValue3 = 1.0273883876454177333  keyValue3 = 5.555004819713781572
+k1 =        3.9418919281604867244  k2 =        2.4153952781914744818
+k3 =        1.0273883876454177333  k4 =        5.555004819713781572
+checkSaveDistribution with DualRand, RandLandau
+keyValue1 = 38.11981278201668033  keyValue2 = -0.35383262644873519909
+keyValue3 = -1.8013096500692447055  keyValue3 = 0.12091675050360130295
+k1 =        38.11981278201668033  k2 =        -0.35383262644873519909
+k3 =        -1.8013096500692447055  k4 =        0.12091675050360130295
+checkSaveDistribution with DualRand, RandStudentT
+keyValue1 = 1.2271492884455152961  keyValue2 = -0.49590507558755675399
+keyValue3 = 0.6686052810117862899  keyValue3 = 1.3304107804754741196
+k1 =        1.2271492884455152961  k2 =        -0.49590507558755675399
+k3 =        0.6686052810117862899  k4 =        1.3304107804754741196
+checkSaveDistribution with DualRand, RandPoisson
+keyValue1 = 4  keyValue2 = 3
+keyValue3 = 4  keyValue3 = 1
+k1 =        4  k2 =        3
+k3 =        4  k4 =        1
+checkSaveDistribution with DualRand, RandPoisson
+keyValue1 = 104  keyValue2 = 108
+keyValue3 = 113  keyValue3 = 108
+k1 =        104  k2 =        108
+k3 =        113  k4 =        108
+checkSaveDistribution with DualRand, RandPoisson
+keyValue1 = 2  keyValue2 = 4
+keyValue3 = 2  keyValue3 = 0
+k1 =        2  k2 =        4
+k3 =        2  k4 =        0
+checkSaveDistribution with DualRand, RandPoisson
+keyValue1 = 1  keyValue2 = 3
+keyValue3 = 2  keyValue3 = 1
+k1 =        1  k2 =        3
+k3 =        2  k4 =        1
+checkSaveDistribution with DualRand, RandPoisson
+keyValue1 = 4  keyValue2 = 1
+keyValue3 = 3  keyValue3 = 2
+k1 =        4  k2 =        1
+k3 =        3  k4 =        2
+checkSaveDistribution with DualRand, RandPoisson
+keyValue1 = 1  keyValue2 = 0
+keyValue3 = 4  keyValue3 = 1
+k1 =        1  k2 =        0
+k3 =        4  k4 =        1
+checkSaveDistribution with DualRand, RandPoisson
+keyValue1 = 100  keyValue2 = 127
+keyValue3 = 120  keyValue3 = 108
+k1 =        100  k2 =        127
+k3 =        120  k4 =        108
+checkSaveDistribution with DualRand, RandPoissonQ
+keyValue1 = 0  keyValue2 = 1
+keyValue3 = 2  keyValue3 = 4
+k1 =        0  k2 =        1
+k3 =        2  k4 =        4
+checkSaveDistribution with DualRand, RandPoissonQ
+keyValue1 = 2  keyValue2 = 3
+keyValue3 = 4  keyValue3 = 4
+k1 =        2  k2 =        3
+k3 =        4  k4 =        4
+checkSaveDistribution with DualRand, RandPoissonQ
+keyValue1 = 4  keyValue2 = 4
+keyValue3 = 0  keyValue3 = 5
+k1 =        4  k2 =        4
+k3 =        0  k4 =        5
+checkSaveDistribution with DualRand, RandPoissonQ
+keyValue1 = 3  keyValue2 = 1
+keyValue3 = 2  keyValue3 = 3
+k1 =        3  k2 =        1
+k3 =        2  k4 =        3
+checkSaveDistribution with DualRand, RandPoissonQ
+keyValue1 = 119  keyValue2 = 104
+keyValue3 = 111  keyValue3 = 102
+k1 =        119  k2 =        104
+k3 =        111  k4 =        102
+checkSaveDistribution with DualRand, RandPoissonQ
+keyValue1 = 1  keyValue2 = 0
+keyValue3 = 1  keyValue3 = 3
+k1 =        1  k2 =        0
+k3 =        1  k4 =        3
+checkSaveDistribution with DualRand, RandPoissonQ
+keyValue1 = 104  keyValue2 = 91
+keyValue3 = 102  keyValue3 = 112
+k1 =        104  k2 =        91
+k3 =        102  k4 =        112
+checkSaveDistribution with DualRand, RandPoissonT
+keyValue1 = 4  keyValue2 = 1
+keyValue3 = 3  keyValue3 = 1
+k1 =        4  k2 =        1
+k3 =        3  k4 =        1
+checkSaveDistribution with DualRand, RandPoissonT
+keyValue1 = 106  keyValue2 = 117
+keyValue3 = 95  keyValue3 = 104
+k1 =        106  k2 =        117
+k3 =        95  k4 =        104
+checkSaveDistribution with DualRand, RandPoissonT
+keyValue1 = 1  keyValue2 = 0
+keyValue3 = 1  keyValue3 = 3
+k1 =        1  k2 =        0
+k3 =        1  k4 =        3
+checkSaveDistribution with DualRand, RandPoissonT
+keyValue1 = 117  keyValue2 = 120
+keyValue3 = 104  keyValue3 = 124
+k1 =        117  k2 =        120
+k3 =        104  k4 =        124
+checkSaveDistribution with DualRand, RandPoissonT
+keyValue1 = 2  keyValue2 = 4
+keyValue3 = 4  keyValue3 = 6
+k1 =        2  k2 =        4
+k3 =        4  k4 =        6
+checkSaveDistribution with DualRand, RandPoissonT
+keyValue1 = 2  keyValue2 = 1
+keyValue3 = 3  keyValue3 = 5
+k1 =        2  k2 =        1
+k3 =        3  k4 =        5
+checkSaveDistribution with DualRand, RandPoissonT
+keyValue1 = 3  keyValue2 = 2
+keyValue3 = 1  keyValue3 = 3
+k1 =        3  k2 =        2
+k3 =        1  k4 =        3
+checkSaveDistribution with DualRand, RandGeneral
+keyValue1 = 0.97755200431758282331  keyValue2 = 0.98631475404670509999
+keyValue3 = 0.25562686019797975501  keyValue3 = 0.48214600061057250047
+k1 =        0.97755200431758282331  k2 =        0.98631475404670509999
+k3 =        0.25562686019797975501  k4 =        0.48214600061057250047
+checkSaveDistribution with Hurd160Engine, RandGauss
+keyValue1 = 98.09298569399656742  keyValue2 = 102.53697525195026685
+keyValue3 = 102.01304653586637983  keyValue3 = 97.765031108977964891
+k1 =        98.09298569399656742  k2 =        102.53697525195026685
+k3 =        102.01304653586637983  k4 =        97.765031108977964891
+checkSaveDistribution with Hurd160Engine, RandGauss
+keyValue1 = 104.1320203864176932  keyValue2 = 98.334853945385816587
+keyValue3 = 97.320689100821198281  keyValue3 = 97.954202089688635624
+k1 =        104.1320203864176932  k2 =        98.334853945385816587
+k3 =        97.320689100821198281  k4 =        97.954202089688635624
+checkSaveDistribution with Hurd160Engine, RandGaussQ
+keyValue1 = 5.6774468421936035156  keyValue2 = 14.541350364685058594
+keyValue3 = 8.431981205940246582  keyValue3 = 8.2897940874099731445
+k1 =        5.6774468421936035156  k2 =        14.541350364685058594
+k3 =        8.431981205940246582  k4 =        8.2897940874099731445
+checkSaveDistribution with Hurd160Engine, RandGaussT
+keyValue1 = 5.0032769645825752036  keyValue2 = 4.2277780462128697891
+keyValue3 = 2.9229058702658052837  keyValue3 = 3.2504056599164083963
+k1 =        5.0032769645825752036  k2 =        4.2277780462128697891
+k3 =        2.9229058702658052837  k4 =        3.2504056599164083963
+checkSaveDistribution with Hurd160Engine, RandBinomial
+keyValue1 = 1  keyValue2 = 1
+keyValue3 = 3  keyValue3 = 3
+k1 =        1  k2 =        1
+k3 =        3  k4 =        3
+checkSaveDistribution with Hurd160Engine, RandFlat
+keyValue1 = 28.90291271897024572  keyValue2 = 28.138970490144657788
+keyValue3 = 20.291264217896188171  keyValue3 = 24.8435231319844263
+k1 =        28.90291271897024572  k2 =        28.138970490144657788
+k3 =        20.291264217896188171  k4 =        24.8435231319844263
+checkSaveDistribution with Hurd160Engine, RandBit
+keyValue1 = 0.68559087497549386914  keyValue2 = 0.2766550301218254071
+keyValue3 = 0.32020178720892672475  keyValue3 = 0.16149668196137062504
+k1 =        0.68559087497549386914  k2 =        0.2766550301218254071
+k3 =        0.32020178720892672475  k4 =        0.16149668196137062504
+checkSaveDistribution with Hurd160Engine, RandBit
+keyValue1 = 0.97594897884538522881  keyValue2 = 0.57694327422467361899
+keyValue3 = 0.38387634533472608789  keyValue3 = 0.00018456200127742183881
+k1 =        0.97594897884538522881  k2 =        0.57694327422467361899
+k3 =        0.38387634533472608789  k4 =        0.00018456200127742183881
+checkSaveDistribution with Hurd160Engine, RandBit
+keyValue1 = 0.77236599572397679481  keyValue2 = 0.94827052272844880587
+keyValue3 = 0.51764066736014668901  keyValue3 = 0.26101493130249081576
+k1 =        0.77236599572397679481  k2 =        0.94827052272844880587
+k3 =        0.51764066736014668901  k4 =        0.26101493130249081576
+checkSaveDistribution with Hurd160Engine, RandBreitWigner
+keyValue1 = 45.387359411447803836  keyValue2 = 46.102618497924545693
+keyValue3 = 43.880591738787558143  keyValue3 = 19.406927578452734195
+k1 =        45.387359411447803836  k2 =        46.102618497924545693
+k3 =        43.880591738787558143  k4 =        19.406927578452734195
+checkSaveDistribution with Hurd160Engine, RandChiSquare
+keyValue1 = 2.566187586097917972  keyValue2 = 5.0632390879857211985
+keyValue3 = 5.1007291187320387138  keyValue3 = 2.9663435791881180847
+k1 =        2.566187586097917972  k2 =        5.0632390879857211985
+k3 =        5.1007291187320387138  k4 =        2.9663435791881180847
+checkSaveDistribution with Hurd160Engine, RandExponential
+keyValue1 = 7.0480406263799029176  keyValue2 = 2.7552267448839105057
+keyValue3 = 7.0581377099407234255  keyValue3 = 7.476601214630784753
+k1 =        7.0480406263799029176  k2 =        2.7552267448839105057
+k3 =        7.0581377099407234255  k4 =        7.476601214630784753
+checkSaveDistribution with Hurd160Engine, RandGamma
+keyValue1 = 2.411628515872032974  keyValue2 = 3.0396842708647411335
+keyValue3 = 2.7614783568567773386  keyValue3 = 2.6481823144574385687
+k1 =        2.411628515872032974  k2 =        3.0396842708647411335
+k3 =        2.7614783568567773386  k4 =        2.6481823144574385687
+checkSaveDistribution with Hurd160Engine, RandLandau
+keyValue1 = 2.8974930605000479567  keyValue2 = 0.53419990911433057335
+keyValue3 = 15.095017924676090715  keyValue3 = 5.9441543167636865519
+k1 =        2.8974930605000479567  k2 =        0.53419990911433057335
+k3 =        15.095017924676090715  k4 =        5.9441543167636865519
+checkSaveDistribution with Hurd160Engine, RandStudentT
+keyValue1 = 2.107050852407919006  keyValue2 = -0.93468731340685318187
+keyValue3 = -1.5793329540225995444  keyValue3 = -0.61440912689020621418
+k1 =        2.107050852407919006  k2 =        -0.93468731340685318187
+k3 =        -1.5793329540225995444  k4 =        -0.61440912689020621418
+checkSaveDistribution with Hurd160Engine, RandPoisson
+keyValue1 = 2  keyValue2 = 1
+keyValue3 = 3  keyValue3 = 4
+k1 =        2  k2 =        1
+k3 =        3  k4 =        4
+checkSaveDistribution with Hurd160Engine, RandPoisson
+keyValue1 = 108  keyValue2 = 92
+keyValue3 = 116  keyValue3 = 119
+k1 =        108  k2 =        92
+k3 =        116  k4 =        119
+checkSaveDistribution with Hurd160Engine, RandPoisson
+keyValue1 = 2  keyValue2 = 3
+keyValue3 = 1  keyValue3 = 1
+k1 =        2  k2 =        3
+k3 =        1  k4 =        1
+checkSaveDistribution with Hurd160Engine, RandPoisson
+keyValue1 = 4  keyValue2 = 5
+keyValue3 = 2  keyValue3 = 2
+k1 =        4  k2 =        5
+k3 =        2  k4 =        2
+checkSaveDistribution with Hurd160Engine, RandPoisson
+keyValue1 = 5  keyValue2 = 2
+keyValue3 = 2  keyValue3 = 1
+k1 =        5  k2 =        2
+k3 =        2  k4 =        1
+checkSaveDistribution with Hurd160Engine, RandPoisson
+keyValue1 = 3  keyValue2 = 2
+keyValue3 = 1  keyValue3 = 0
+k1 =        3  k2 =        2
+k3 =        1  k4 =        0
+checkSaveDistribution with Hurd160Engine, RandPoisson
+keyValue1 = 112  keyValue2 = 89
+keyValue3 = 130  keyValue3 = 112
+k1 =        112  k2 =        89
+k3 =        130  k4 =        112
+checkSaveDistribution with Hurd160Engine, RandPoissonQ
+keyValue1 = 0  keyValue2 = 4
+keyValue3 = 2  keyValue3 = 4
+k1 =        0  k2 =        4
+k3 =        2  k4 =        4
+checkSaveDistribution with Hurd160Engine, RandPoissonQ
+keyValue1 = 4  keyValue2 = 2
+keyValue3 = 2  keyValue3 = 2
+k1 =        4  k2 =        2
+k3 =        2  k4 =        2
+checkSaveDistribution with Hurd160Engine, RandPoissonQ
+keyValue1 = 1  keyValue2 = 3
+keyValue3 = 4  keyValue3 = 2
+k1 =        1  k2 =        3
+k3 =        4  k4 =        2
+checkSaveDistribution with Hurd160Engine, RandPoissonQ
+keyValue1 = 2  keyValue2 = 1
+keyValue3 = 2  keyValue3 = 1
+k1 =        2  k2 =        1
+k3 =        2  k4 =        1
+checkSaveDistribution with Hurd160Engine, RandPoissonQ
+keyValue1 = 113  keyValue2 = 116
+keyValue3 = 121  keyValue3 = 139
+k1 =        113  k2 =        116
+k3 =        121  k4 =        139
+checkSaveDistribution with Hurd160Engine, RandPoissonQ
+keyValue1 = 3  keyValue2 = 2
+keyValue3 = 8  keyValue3 = 3
+k1 =        3  k2 =        2
+k3 =        8  k4 =        3
+checkSaveDistribution with Hurd160Engine, RandPoissonQ
+keyValue1 = 116  keyValue2 = 109
+keyValue3 = 139  keyValue3 = 113
+k1 =        116  k2 =        109
+k3 =        139  k4 =        113
+checkSaveDistribution with Hurd160Engine, RandPoissonT
+keyValue1 = 3  keyValue2 = 3
+keyValue3 = 4  keyValue3 = 8
+k1 =        3  k2 =        3
+k3 =        4  k4 =        8
+checkSaveDistribution with Hurd160Engine, RandPoissonT
+keyValue1 = 97  keyValue2 = 106
+keyValue3 = 100  keyValue3 = 126
+k1 =        97  k2 =        106
+k3 =        100  k4 =        126
+checkSaveDistribution with Hurd160Engine, RandPoissonT
+keyValue1 = 3  keyValue2 = 2
+keyValue3 = 8  keyValue3 = 3
+k1 =        3  k2 =        2
+k3 =        8  k4 =        3
+checkSaveDistribution with Hurd160Engine, RandPoissonT
+keyValue1 = 106  keyValue2 = 102
+keyValue3 = 126  keyValue3 = 78
+k1 =        106  k2 =        102
+k3 =        126  k4 =        78
+checkSaveDistribution with Hurd160Engine, RandPoissonT
+keyValue1 = 5  keyValue2 = 1
+keyValue3 = 7  keyValue3 = 0
+k1 =        5  k2 =        1
+k3 =        7  k4 =        0
+checkSaveDistribution with Hurd160Engine, RandPoissonT
+keyValue1 = 4  keyValue2 = 3
+keyValue3 = 5  keyValue3 = 1
+k1 =        4  k2 =        3
+k3 =        5  k4 =        1
+checkSaveDistribution with Hurd160Engine, RandPoissonT
+keyValue1 = 2  keyValue2 = 0
+keyValue3 = 4  keyValue3 = 0
+k1 =        2  k2 =        0
+k3 =        4  k4 =        0
+checkSaveDistribution with Hurd160Engine, RandGeneral
+keyValue1 = 0.20020451089262505939  keyValue2 = 0.85656104178640546376
+keyValue3 = 0.73281134797368563394  keyValue3 = 0.11271646394692527715
+k1 =        0.20020451089262505939  k2 =        0.85656104178640546376
+k3 =        0.73281134797368563394  k4 =        0.11271646394692527715
+checkSaveDistribution with Hurd288Engine, RandGauss
+keyValue1 = 100.87800650837989735  keyValue2 = 97.593872655856827691
+keyValue3 = 99.077878984725799683  keyValue3 = 105.29860930070834968
+k1 =        100.87800650837989735  k2 =        97.593872655856827691
+k3 =        99.077878984725799683  k4 =        105.29860930070834968
+checkSaveDistribution with Hurd288Engine, RandGauss
+keyValue1 = 101.05230721236291913  keyValue2 = 103.39783529495720416
+keyValue3 = 97.947329182773685829  keyValue3 = 101.65368143253768096
+k1 =        101.05230721236291913  k2 =        103.39783529495720416
+k3 =        97.947329182773685829  k4 =        101.65368143253768096
+checkSaveDistribution with Hurd288Engine, RandGaussQ
+keyValue1 = 16.177496433258056641  keyValue2 = 12.347261190414428711
+keyValue3 = 0.968418121337890625  keyValue3 = 9.1358969807624816895
+k1 =        16.177496433258056641  k2 =        12.347261190414428711
+k3 =        0.968418121337890625  k4 =        9.1358969807624816895
+checkSaveDistribution with Hurd288Engine, RandGaussT
+keyValue1 = 2.7531743085716144925  keyValue2 = 6.4752715845033659292
+keyValue3 = 2.1365446282389615185  keyValue3 = 6.6106581142941616136
+k1 =        2.7531743085716144925  k2 =        6.4752715845033659292
+k3 =        2.1365446282389615185  k4 =        6.6106581142941616136
+checkSaveDistribution with Hurd288Engine, RandBinomial
+keyValue1 = 3  keyValue2 = 3
+keyValue3 = 1  keyValue3 = 2
+k1 =        3  k2 =        3
+k3 =        1  k4 =        2
+checkSaveDistribution with Hurd288Engine, RandFlat
+keyValue1 = 19.705016452793714166  keyValue2 = 18.362777851215199121
+keyValue3 = 23.749773804787732701  keyValue3 = 19.96345943407952106
+k1 =        19.705016452793714166  k2 =        18.362777851215199121
+k3 =        23.749773804787732701  k4 =        19.96345943407952106
+checkSaveDistribution with Hurd288Engine, RandBit
+keyValue1 = 0.29121756147702498874  keyValue2 = 0.32502762057177841948
+keyValue3 = 0.81690771795984795656  keyValue3 = 0.97967799210476846916
+k1 =        0.29121756147702498874  k2 =        0.32502762057177841948
+k3 =        0.81690771795984795656  k4 =        0.97967799210476846916
+checkSaveDistribution with Hurd288Engine, RandBit
+keyValue1 = 0.4632861047296915058  keyValue2 = 0.65837954199376047537
+keyValue3 = 0.90193298254538067926  keyValue3 = 0.64018801150551785106
+k1 =        0.4632861047296915058  k2 =        0.65837954199376047537
+k3 =        0.90193298254538067926  k4 =        0.64018801150551785106
+checkSaveDistribution with Hurd288Engine, RandBit
+keyValue1 = 0.94905178697389458442  keyValue2 = 0.64010830390292317027
+keyValue3 = 0.026008706437462059124  keyValue3 = 0.76600321032084039974
+k1 =        0.94905178697389458442  k2 =        0.64010830390292317027
+k3 =        0.026008706437462059124  k4 =        0.76600321032084039974
+checkSaveDistribution with Hurd288Engine, RandBreitWigner
+keyValue1 = 61.034426745749385645  keyValue2 = 50.819403197968206598
+keyValue3 = 49.767548696333591352  keyValue3 = 7.3671146036669696855
+k1 =        61.034426745749385645  k2 =        50.819403197968206598
+k3 =        49.767548696333591352  k4 =        7.3671146036669696855
+checkSaveDistribution with Hurd288Engine, RandChiSquare
+keyValue1 = 8.9804789583110515849  keyValue2 = 3.2282642497710405394
+keyValue3 = 11.079396996028870959  keyValue3 = 13.579942993629268599
+k1 =        8.9804789583110515849  k2 =        3.2282642497710405394
+k3 =        11.079396996028870959  k4 =        13.579942993629268599
+checkSaveDistribution with Hurd288Engine, RandExponential
+keyValue1 = 9.1437237237780362165  keyValue2 = 15.209360496530116791
+keyValue3 = 12.514457047995451333  keyValue3 = 9.2099062397558029147
+k1 =        9.1437237237780362165  k2 =        15.209360496530116791
+k3 =        12.514457047995451333  k4 =        9.2099062397558029147
+checkSaveDistribution with Hurd288Engine, RandGamma
+keyValue1 = 1.7992094943317678002  keyValue2 = 2.0902434343498192959
+keyValue3 = 1.6954277839040736708  keyValue3 = 2.2613896935490518381
+k1 =        1.7992094943317678002  k2 =        2.0902434343498192959
+k3 =        1.6954277839040736708  k4 =        2.2613896935490518381
+checkSaveDistribution with Hurd288Engine, RandLandau
+keyValue1 = 2.0777928054981464889  keyValue2 = -0.91274147558427365379
+keyValue3 = -1.5428453353426199168  keyValue3 = -1.2190369391513580233
+k1 =        2.0777928054981464889  k2 =        -0.91274147558427365379
+k3 =        -1.5428453353426199168  k4 =        -1.2190369391513580233
+checkSaveDistribution with Hurd288Engine, RandStudentT
+keyValue1 = -1.0871236063533464833  keyValue2 = 1.36377262281066991
+keyValue3 = -0.03839548775646636769  keyValue3 = -2.6012633803955549361
+k1 =        -1.0871236063533464833  k2 =        1.36377262281066991
+k3 =        -0.03839548775646636769  k4 =        -2.6012633803955549361
+checkSaveDistribution with Hurd288Engine, RandPoisson
+keyValue1 = 3  keyValue2 = 0
+keyValue3 = 2  keyValue3 = 0
+k1 =        3  k2 =        0
+k3 =        2  k4 =        0
+checkSaveDistribution with Hurd288Engine, RandPoisson
+keyValue1 = 114  keyValue2 = 98
+keyValue3 = 114  keyValue3 = 112
+k1 =        114  k2 =        98
+k3 =        114  k4 =        112
+checkSaveDistribution with Hurd288Engine, RandPoisson
+keyValue1 = 2  keyValue2 = 5
+keyValue3 = 4  keyValue3 = 4
+k1 =        2  k2 =        5
+k3 =        4  k4 =        4
+checkSaveDistribution with Hurd288Engine, RandPoisson
+keyValue1 = 6  keyValue2 = 4
+keyValue3 = 0  keyValue3 = 5
+k1 =        6  k2 =        4
+k3 =        0  k4 =        5
+checkSaveDistribution with Hurd288Engine, RandPoisson
+keyValue1 = 4  keyValue2 = 1
+keyValue3 = 6  keyValue3 = 1
+k1 =        4  k2 =        1
+k3 =        6  k4 =        1
+checkSaveDistribution with Hurd288Engine, RandPoisson
+keyValue1 = 1  keyValue2 = 2
+keyValue3 = 2  keyValue3 = 5
+k1 =        1  k2 =        2
+k3 =        2  k4 =        5
+checkSaveDistribution with Hurd288Engine, RandPoisson
+keyValue1 = 97  keyValue2 = 115
+keyValue3 = 109  keyValue3 = 125
+k1 =        97  k2 =        115
+k3 =        109  k4 =        125
+checkSaveDistribution with Hurd288Engine, RandPoissonQ
+keyValue1 = 4  keyValue2 = 1
+keyValue3 = 1  keyValue3 = 1
+k1 =        4  k2 =        1
+k3 =        1  k4 =        1
+checkSaveDistribution with Hurd288Engine, RandPoissonQ
+keyValue1 = 1  keyValue2 = 2
+keyValue3 = 2  keyValue3 = 3
+k1 =        1  k2 =        2
+k3 =        2  k4 =        3
+checkSaveDistribution with Hurd288Engine, RandPoissonQ
+keyValue1 = 0  keyValue2 = 2
+keyValue3 = 2  keyValue3 = 3
+k1 =        0  k2 =        2
+k3 =        2  k4 =        3
+checkSaveDistribution with Hurd288Engine, RandPoissonQ
+keyValue1 = 4  keyValue2 = 1
+keyValue3 = 0  keyValue3 = 1
+k1 =        4  k2 =        1
+k3 =        0  k4 =        1
+checkSaveDistribution with Hurd288Engine, RandPoissonQ
+keyValue1 = 101  keyValue2 = 136
+keyValue3 = 113  keyValue3 = 94
+k1 =        101  k2 =        136
+k3 =        113  k4 =        94
+checkSaveDistribution with Hurd288Engine, RandPoissonQ
+keyValue1 = 7  keyValue2 = 6
+keyValue3 = 0  keyValue3 = 2
+k1 =        7  k2 =        6
+k3 =        0  k4 =        2
+checkSaveDistribution with Hurd288Engine, RandPoissonQ
+keyValue1 = 136  keyValue2 = 132
+keyValue3 = 94  keyValue3 = 108
+k1 =        136  k2 =        132
+k3 =        94  k4 =        108
+checkSaveDistribution with Hurd288Engine, RandPoissonT
+keyValue1 = 1  keyValue2 = 7
+keyValue3 = 3  keyValue3 = 0
+k1 =        1  k2 =        7
+k3 =        3  k4 =        0
+checkSaveDistribution with Hurd288Engine, RandPoissonT
+keyValue1 = 116  keyValue2 = 89
+keyValue3 = 99  keyValue3 = 108
+k1 =        116  k2 =        89
+k3 =        99  k4 =        108
+checkSaveDistribution with Hurd288Engine, RandPoissonT
+keyValue1 = 7  keyValue2 = 6
+keyValue3 = 0  keyValue3 = 2
+k1 =        7  k2 =        6
+k3 =        0  k4 =        2
+checkSaveDistribution with Hurd288Engine, RandPoissonT
+keyValue1 = 89  keyValue2 = 111
+keyValue3 = 108  keyValue3 = 114
+k1 =        89  k2 =        111
+k3 =        108  k4 =        114
+checkSaveDistribution with Hurd288Engine, RandPoissonT
+keyValue1 = 2  keyValue2 = 4
+keyValue3 = 3  keyValue3 = 3
+k1 =        2  k2 =        4
+k3 =        3  k4 =        3
+checkSaveDistribution with Hurd288Engine, RandPoissonT
+keyValue1 = 5  keyValue2 = 2
+keyValue3 = 3  keyValue3 = 4
+k1 =        5  k2 =        2
+k3 =        3  k4 =        4
+checkSaveDistribution with Hurd288Engine, RandPoissonT
+keyValue1 = 1  keyValue2 = 2
+keyValue3 = 2  keyValue3 = 2
+k1 =        1  k2 =        2
+k3 =        2  k4 =        2
+checkSaveDistribution with Hurd288Engine, RandGeneral
+keyValue1 = 0.55963890241216984744  keyValue2 = 0.80143593425492520854
+keyValue3 = 0.51577312749427406402  keyValue3 = 0.14969634072231172151
+k1 =        0.55963890241216984744  k2 =        0.80143593425492520854
+k3 =        0.51577312749427406402  k4 =        0.14969634072231172151
+checkSaveDistribution with HepJamesRandom, RandGauss
+keyValue1 = 100.75397555508689607  keyValue2 = 102.04634965321960749
+keyValue3 = 96.924111489731998859  keyValue3 = 99.324052538080096042
+k1 =        100.75397555508689607  k2 =        102.04634965321960749
+k3 =        96.924111489731998859  k4 =        99.324052538080096042
+checkSaveDistribution with HepJamesRandom, RandGauss
+keyValue1 = 99.535522346821636575  keyValue2 = 102.8687672446518917
+keyValue3 = 103.6930995790713439  keyValue3 = 102.22829594773881468
+k1 =        99.535522346821636575  k2 =        102.8687672446518917
+k3 =        103.6930995790713439  k4 =        102.22829594773881468
+checkSaveDistribution with HepJamesRandom, RandGaussQ
+keyValue1 = 15.424547672271728516  keyValue2 = 12.616046667098999023
+keyValue3 = 6.1565935611724853516  keyValue3 = 12.961624383926391602
+k1 =        15.424547672271728516  k2 =        12.616046667098999023
+k3 =        6.1565935611724853516  k4 =        12.961624383926391602
+checkSaveDistribution with HepJamesRandom, RandGaussT
+keyValue1 = 5.7384213841298432612  keyValue2 = 8.3226830125118578252
+keyValue3 = 5.4383933652772160627  keyValue3 = 7.0878813314269519807
+k1 =        5.7384213841298432612  k2 =        8.3226830125118578252
+k3 =        5.4383933652772160627  k4 =        7.0878813314269519807
+checkSaveDistribution with HepJamesRandom, RandBinomial
+keyValue1 = 3  keyValue2 = 2
+keyValue3 = 2  keyValue3 = 1
+k1 =        3  k2 =        2
+k3 =        2  k4 =        1
+checkSaveDistribution with HepJamesRandom, RandFlat
+keyValue1 = 32.082559913396835327  keyValue2 = 15.138983875513076782
+keyValue3 = 13.259598910808563232  keyValue3 = 13.078720122575759888
+k1 =        32.082559913396835327  k2 =        15.138983875513076782
+k3 =        13.259598910808563232  k4 =        13.078720122575759888
+checkSaveDistribution with HepJamesRandom, RandBit
+keyValue1 = 0.20327228307723999023  keyValue2 = 0.18455278873443603516
+keyValue3 = 0.89692151546478271484  keyValue3 = 0.71723699569702148438
+k1 =        0.20327228307723999023  k2 =        0.18455278873443603516
+k3 =        0.89692151546478271484  k4 =        0.71723699569702148438
+checkSaveDistribution with HepJamesRandom, RandBit
+keyValue1 = 0.059704124927520751953  keyValue2 = 0.043340504169464111328
+keyValue3 = 0.39636194705963134766  keyValue3 = 0.45513337850570678711
+k1 =        0.059704124927520751953  k2 =        0.043340504169464111328
+k3 =        0.39636194705963134766  k4 =        0.45513337850570678711
+checkSaveDistribution with HepJamesRandom, RandBit
+keyValue1 = 0.34476399421691894531  keyValue2 = 0.79085773229598999023
+keyValue3 = 0.90540683269500732422  keyValue3 = 0.21258878707885742188
+k1 =        0.34476399421691894531  k2 =        0.79085773229598999023
+k3 =        0.90540683269500732422  k4 =        0.21258878707885742188
+checkSaveDistribution with HepJamesRandom, RandBreitWigner
+keyValue1 = 50.125874266164629489  keyValue2 = 56.090589688341438546
+keyValue3 = 42.882618591145472919  keyValue3 = 61.107891326659078857
+k1 =        50.125874266164629489  k2 =        56.090589688341438546
+k3 =        42.882618591145472919  k4 =        61.107891326659078857
+checkSaveDistribution with HepJamesRandom, RandChiSquare
+keyValue1 = 7.7290013320707213751  keyValue2 = 3.8383007097095291904
+keyValue3 = 11.312579097798424854  keyValue3 = 6.069703947912876707
+k1 =        7.7290013320707213751  k2 =        3.8383007097095291904
+k3 =        11.312579097798424854  k4 =        6.069703947912876707
+checkSaveDistribution with HepJamesRandom, RandExponential
+keyValue1 = 4.0737007456036868902  keyValue2 = 13.193149683630194247
+keyValue3 = 2.7241241192587297704  keyValue3 = 2.8968928544932373015
+k1 =        4.0737007456036868902  k2 =        13.193149683630194247
+k3 =        2.7241241192587297704  k4 =        2.8968928544932373015
+checkSaveDistribution with HepJamesRandom, RandGamma
+keyValue1 = 3.0325257831963514654  keyValue2 = 6.5711466431236713603
+keyValue3 = 3.1283185135953432976  keyValue3 = 5.1753185545238746812
+k1 =        3.0325257831963514654  k2 =        6.5711466431236713603
+k3 =        3.1283185135953432976  k4 =        5.1753185545238746812
+checkSaveDistribution with HepJamesRandom, RandLandau
+keyValue1 = 2.2994690563115152138  keyValue2 = -0.16470887796479941056
+keyValue3 = 0.42808715190189217115  keyValue3 = -1.2166960364121184313
+k1 =        2.2994690563115152138  k2 =        -0.16470887796479941056
+k3 =        0.42808715190189217115  k4 =        -1.2166960364121184313
+checkSaveDistribution with HepJamesRandom, RandStudentT
+keyValue1 = -0.45597745026182134875  keyValue2 = -0.083305989725567325399
+keyValue3 = -1.9841281523231857342  keyValue3 = 1.159685418685362901
+k1 =        -0.45597745026182134875  k2 =        -0.083305989725567325399
+k3 =        -1.9841281523231857342  k4 =        1.159685418685362901
+checkSaveDistribution with HepJamesRandom, RandPoisson
+keyValue1 = 3  keyValue2 = 3
+keyValue3 = 1  keyValue3 = 2
+k1 =        3  k2 =        3
+k3 =        1  k4 =        2
+checkSaveDistribution with HepJamesRandom, RandPoisson
+keyValue1 = 117  keyValue2 = 103
+keyValue3 = 119  keyValue3 = 119
+k1 =        117  k2 =        103
+k3 =        119  k4 =        119
+checkSaveDistribution with HepJamesRandom, RandPoisson
+keyValue1 = 2  keyValue2 = 2
+keyValue3 = 3  keyValue3 = 0
+k1 =        2  k2 =        2
+k3 =        3  k4 =        0
+checkSaveDistribution with HepJamesRandom, RandPoisson
+keyValue1 = 5  keyValue2 = 6
+keyValue3 = 2  keyValue3 = 1
+k1 =        5  k2 =        6
+k3 =        2  k4 =        1
+checkSaveDistribution with HepJamesRandom, RandPoisson
+keyValue1 = 3  keyValue2 = 3
+keyValue3 = 6  keyValue3 = 3
+k1 =        3  k2 =        3
+k3 =        6  k4 =        3
+checkSaveDistribution with HepJamesRandom, RandPoisson
+keyValue1 = 1  keyValue2 = 3
+keyValue3 = 7  keyValue3 = 0
+k1 =        1  k2 =        3
+k3 =        7  k4 =        0
+checkSaveDistribution with HepJamesRandom, RandPoisson
+keyValue1 = 98  keyValue2 = 109
+keyValue3 = 104  keyValue3 = 93
+k1 =        98  k2 =        109
+k3 =        104  k4 =        93
+checkSaveDistribution with HepJamesRandom, RandPoissonQ
+keyValue1 = 0  keyValue2 = 0
+keyValue3 = 0  keyValue3 = 2
+k1 =        0  k2 =        0
+k3 =        0  k4 =        2
+checkSaveDistribution with HepJamesRandom, RandPoissonQ
+keyValue1 = 1  keyValue2 = 2
+keyValue3 = 1  keyValue3 = 3
+k1 =        1  k2 =        2
+k3 =        1  k4 =        3
+checkSaveDistribution with HepJamesRandom, RandPoissonQ
+keyValue1 = 2  keyValue2 = 2
+keyValue3 = 3  keyValue3 = 7
+k1 =        2  k2 =        2
+k3 =        3  k4 =        7
+checkSaveDistribution with HepJamesRandom, RandPoissonQ
+keyValue1 = 3  keyValue2 = 1
+keyValue3 = 0  keyValue3 = 6
+k1 =        3  k2 =        1
+k3 =        0  k4 =        6
+checkSaveDistribution with HepJamesRandom, RandPoissonQ
+keyValue1 = 90  keyValue2 = 128
+keyValue3 = 114  keyValue3 = 105
+k1 =        90  k2 =        128
+k3 =        114  k4 =        105
+checkSaveDistribution with HepJamesRandom, RandPoissonQ
+keyValue1 = 5  keyValue2 = 1
+keyValue3 = 2  keyValue3 = 1
+k1 =        5  k2 =        1
+k3 =        2  k4 =        1
+checkSaveDistribution with HepJamesRandom, RandPoissonQ
+keyValue1 = 128  keyValue2 = 100
+keyValue3 = 105  keyValue3 = 98
+k1 =        128  k2 =        100
+k3 =        105  k4 =        98
+checkSaveDistribution with HepJamesRandom, RandPoissonT
+keyValue1 = 0  keyValue2 = 5
+keyValue3 = 3  keyValue3 = 2
+k1 =        0  k2 =        5
+k3 =        3  k4 =        2
+checkSaveDistribution with HepJamesRandom, RandPoissonT
+keyValue1 = 125  keyValue2 = 123
+keyValue3 = 106  keyValue3 = 107
+k1 =        125  k2 =        123
+k3 =        106  k4 =        107
+checkSaveDistribution with HepJamesRandom, RandPoissonT
+keyValue1 = 5  keyValue2 = 1
+keyValue3 = 2  keyValue3 = 1
+k1 =        5  k2 =        1
+k3 =        2  k4 =        1
+checkSaveDistribution with HepJamesRandom, RandPoissonT
+keyValue1 = 123  keyValue2 = 109
+keyValue3 = 107  keyValue3 = 101
+k1 =        123  k2 =        109
+k3 =        107  k4 =        101
+checkSaveDistribution with HepJamesRandom, RandPoissonT
+keyValue1 = 0  keyValue2 = 7
+keyValue3 = 1  keyValue3 = 4
+k1 =        0  k2 =        7
+k3 =        1  k4 =        4
+checkSaveDistribution with HepJamesRandom, RandPoissonT
+keyValue1 = 4  keyValue2 = 1
+keyValue3 = 1  keyValue3 = 4
+k1 =        4  k2 =        1
+k3 =        1  k4 =        4
+checkSaveDistribution with HepJamesRandom, RandPoissonT
+keyValue1 = 2  keyValue2 = 0
+keyValue3 = 1  keyValue3 = 3
+k1 =        2  k2 =        0
+k3 =        1  k4 =        3
+checkSaveDistribution with HepJamesRandom, RandGeneral
+keyValue1 = 0.68726864994617931082  keyValue2 = 0.9140609953342340166
+keyValue3 = 0.051005962326770695747  keyValue3 = 0.74271772063611862791
+k1 =        0.68726864994617931082  k2 =        0.9140609953342340166
+k3 =        0.051005962326770695747  k4 =        0.74271772063611862791
+checkSaveDistribution with MTwistEngine, RandGauss
+keyValue1 = 97.978891405011609095  keyValue2 = 102.89435190189927027
+keyValue3 = 98.355630952895396035  keyValue3 = 99.839192112451868866
+k1 =        97.978891405011609095  k2 =        102.89435190189927027
+k3 =        98.355630952895396035  k4 =        99.839192112451868866
+checkSaveDistribution with MTwistEngine, RandGauss
+keyValue1 = 107.02111037283695794  keyValue2 = 99.997257043859505643
+keyValue3 = 102.70861788858714192  keyValue3 = 100.23158822287747682
+k1 =        107.02111037283695794  k2 =        99.997257043859505643
+k3 =        102.70861788858714192  k4 =        100.23158822287747682
+checkSaveDistribution with MTwistEngine, RandGaussQ
+keyValue1 = 14.026609420776367188  keyValue2 = 16.585046768188476562
+keyValue3 = 12.716981649398803711  keyValue3 = 10.250923603773117065
+k1 =        14.026609420776367188  k2 =        16.585046768188476562
+k3 =        12.716981649398803711  k4 =        10.250923603773117065
+checkSaveDistribution with MTwistEngine, RandGaussT
+keyValue1 = 2.165697621513311244  keyValue2 = 6.729384639064715401
+keyValue3 = 4.4942502090245879387  keyValue3 = 5.9102429145455488424
+k1 =        2.165697621513311244  k2 =        6.729384639064715401
+k3 =        4.4942502090245879387  k4 =        5.9102429145455488424
+checkSaveDistribution with MTwistEngine, RandBinomial
+keyValue1 = 1  keyValue2 = 3
+keyValue3 = 3  keyValue3 = 2
+k1 =        1  k2 =        3
+k3 =        3  k4 =        2
+checkSaveDistribution with MTwistEngine, RandFlat
+keyValue1 = 22.685501562872531167  keyValue2 = 22.5725756563720239
+keyValue3 = 24.581469753991477489  keyValue3 = 14.796595099416407493
+k1 =        22.685501562872531167  k2 =        22.5725756563720239
+k3 =        24.581469753991477489  k4 =        14.796595099416407493
+checkSaveDistribution with MTwistEngine, RandBit
+keyValue1 = 0.80304849848037407334  keyValue2 = 0.6503725351821532108
+keyValue3 = 0.32529063996348023258  keyValue3 = 0.22271542805400251774
+k1 =        0.80304849848037407334  k2 =        0.6503725351821532108
+k3 =        0.32529063996348023258  k4 =        0.22271542805400251774
+checkSaveDistribution with MTwistEngine, RandBit
+keyValue1 = 0.63274986421532997127  keyValue2 = 0.041196493176220150279
+keyValue3 = 0.82949304394446610189  keyValue3 = 0.64105664508705173521
+k1 =        0.63274986421532997127  k2 =        0.041196493176220150279
+k3 =        0.82949304394446610189  k4 =        0.64105664508705173521
+checkSaveDistribution with MTwistEngine, RandBit
+keyValue1 = 0.016064627673108511363  keyValue2 = 0.43996151286695622806
+keyValue3 = 0.099794901587151818578  keyValue3 = 0.26755832382440131179
+k1 =        0.016064627673108511363  k2 =        0.43996151286695622806
+k3 =        0.099794901587151818578  k4 =        0.26755832382440131179
+checkSaveDistribution with MTwistEngine, RandBreitWigner
+keyValue1 = 40.186696515172620536  keyValue2 = 41.897875704453028334
+keyValue3 = 51.77921854607753005  keyValue3 = 35.473707495382768684
+k1 =        40.186696515172620536  k2 =        41.897875704453028334
+k3 =        51.77921854607753005  k4 =        35.473707495382768684
+checkSaveDistribution with MTwistEngine, RandChiSquare
+keyValue1 = 2.6024576536871930621  keyValue2 = 3.4561980173663826577
+keyValue3 = 4.1062044961856125624  keyValue3 = 9.2957383149524339672
+k1 =        2.6024576536871930621  k2 =        3.4561980173663826577
+k3 =        4.1062044961856125624  k4 =        9.2957383149524339672
+checkSaveDistribution with MTwistEngine, RandExponential
+keyValue1 = 48.778728148608742288  keyValue2 = 8.2553798355695029443
+keyValue3 = 12.934529835990675295  keyValue3 = 10.378876830558857236
+k1 =        48.778728148608742288  k2 =        8.2553798355695029443
+k3 =        12.934529835990675295  k4 =        10.378876830558857236
+checkSaveDistribution with MTwistEngine, RandGamma
+keyValue1 = 5.3470336167607648292  keyValue2 = 2.3266384650924241129
+keyValue3 = 6.7207862299388114735  keyValue3 = 2.8514727477402490585
+k1 =        5.3470336167607648292  k2 =        2.3266384650924241129
+k3 =        6.7207862299388114735  k4 =        2.8514727477402490585
+checkSaveDistribution with MTwistEngine, RandLandau
+keyValue1 = 11.367468786716056428  keyValue2 = 0.072689758327285108885
+keyValue3 = -1.1035750147745608807  keyValue3 = 2.6274933853558506414
+k1 =        11.367468786716056428  k2 =        0.072689758327285108885
+k3 =        -1.1035750147745608807  k4 =        2.6274933853558506414
+checkSaveDistribution with MTwistEngine, RandStudentT
+keyValue1 = -0.71436868150659416088  keyValue2 = 0.68879541051452142231
+keyValue3 = -0.80916858970382010696  keyValue3 = -0.55545797543046548927
+k1 =        -0.71436868150659416088  k2 =        0.68879541051452142231
+k3 =        -0.80916858970382010696  k4 =        -0.55545797543046548927
+checkSaveDistribution with MTwistEngine, RandPoisson
+keyValue1 = 4  keyValue2 = 1
+keyValue3 = 0  keyValue3 = 1
+k1 =        4  k2 =        1
+k3 =        0  k4 =        1
+checkSaveDistribution with MTwistEngine, RandPoisson
+keyValue1 = 87  keyValue2 = 106
+keyValue3 = 104  keyValue3 = 96
+k1 =        87  k2 =        106
+k3 =        104  k4 =        96
+checkSaveDistribution with MTwistEngine, RandPoisson
+keyValue1 = 1  keyValue2 = 5
+keyValue3 = 4  keyValue3 = 4
+k1 =        1  k2 =        5
+k3 =        4  k4 =        4
+checkSaveDistribution with MTwistEngine, RandPoisson
+keyValue1 = 3  keyValue2 = 4
+keyValue3 = 2  keyValue3 = 3
+k1 =        3  k2 =        4
+k3 =        2  k4 =        3
+checkSaveDistribution with MTwistEngine, RandPoisson
+keyValue1 = 3  keyValue2 = 2
+keyValue3 = 5  keyValue3 = 3
+k1 =        3  k2 =        2
+k3 =        5  k4 =        3
+checkSaveDistribution with MTwistEngine, RandPoisson
+keyValue1 = 3  keyValue2 = 2
+keyValue3 = 1  keyValue3 = 3
+k1 =        3  k2 =        2
+k3 =        1  k4 =        3
+checkSaveDistribution with MTwistEngine, RandPoisson
+keyValue1 = 118  keyValue2 = 115
+keyValue3 = 106  keyValue3 = 115
+k1 =        118  k2 =        115
+k3 =        106  k4 =        115
+checkSaveDistribution with MTwistEngine, RandPoissonQ
+keyValue1 = 2  keyValue2 = 2
+keyValue3 = 3  keyValue3 = 3
+k1 =        2  k2 =        2
+k3 =        3  k4 =        3
+checkSaveDistribution with MTwistEngine, RandPoissonQ
+keyValue1 = 5  keyValue2 = 1
+keyValue3 = 4  keyValue3 = 6
+k1 =        5  k2 =        1
+k3 =        4  k4 =        6
+checkSaveDistribution with MTwistEngine, RandPoissonQ
+keyValue1 = 4  keyValue2 = 1
+keyValue3 = 5  keyValue3 = 7
+k1 =        4  k2 =        1
+k3 =        5  k4 =        7
+checkSaveDistribution with MTwistEngine, RandPoissonQ
+keyValue1 = 3  keyValue2 = 2
+keyValue3 = 3  keyValue3 = 3
+k1 =        3  k2 =        2
+k3 =        3  k4 =        3
+checkSaveDistribution with MTwistEngine, RandPoissonQ
+keyValue1 = 107  keyValue2 = 103
+keyValue3 = 109  keyValue3 = 130
+k1 =        107  k2 =        103
+k3 =        109  k4 =        130
+checkSaveDistribution with MTwistEngine, RandPoissonQ
+keyValue1 = 1  keyValue2 = 1
+keyValue3 = 6  keyValue3 = 1
+k1 =        1  k2 =        1
+k3 =        6  k4 =        1
+checkSaveDistribution with MTwistEngine, RandPoissonQ
+keyValue1 = 103  keyValue2 = 104
+keyValue3 = 130  keyValue3 = 103
+k1 =        103  k2 =        104
+k3 =        130  k4 =        103
+checkSaveDistribution with MTwistEngine, RandPoissonT
+keyValue1 = 2  keyValue2 = 1
+keyValue3 = 2  keyValue3 = 6
+k1 =        2  k2 =        1
+k3 =        2  k4 =        6
+checkSaveDistribution with MTwistEngine, RandPoissonT
+keyValue1 = 93  keyValue2 = 115
+keyValue3 = 120  keyValue3 = 116
+k1 =        93  k2 =        115
+k3 =        120  k4 =        116
+checkSaveDistribution with MTwistEngine, RandPoissonT
+keyValue1 = 1  keyValue2 = 1
+keyValue3 = 6  keyValue3 = 1
+k1 =        1  k2 =        1
+k3 =        6  k4 =        1
+checkSaveDistribution with MTwistEngine, RandPoissonT
+keyValue1 = 115  keyValue2 = 116
+keyValue3 = 116  keyValue3 = 109
+k1 =        115  k2 =        116
+k3 =        116  k4 =        109
+checkSaveDistribution with MTwistEngine, RandPoissonT
+keyValue1 = 3  keyValue2 = 2
+keyValue3 = 1  keyValue3 = 3
+k1 =        3  k2 =        2
+k3 =        1  k4 =        3
+checkSaveDistribution with MTwistEngine, RandPoissonT
+keyValue1 = 3  keyValue2 = 2
+keyValue3 = 2  keyValue3 = 2
+k1 =        3  k2 =        2
+k3 =        2  k4 =        2
+checkSaveDistribution with MTwistEngine, RandPoissonT
+keyValue1 = 4  keyValue2 = 1
+keyValue3 = 2  keyValue3 = 3
+k1 =        4  k2 =        1
+k3 =        2  k4 =        3
+checkSaveDistribution with MTwistEngine, RandGeneral
+keyValue1 = 0.73153929144117590955  keyValue2 = 0.95926055712536040243
+keyValue3 = 0.68547171835201881063  keyValue3 = 0.72077148538583279969
+k1 =        0.73153929144117590955  k2 =        0.95926055712536040243
+k3 =        0.68547171835201881063  k4 =        0.72077148538583279969
+checkSaveDistribution with Ranlux64Engine, RandGauss
+keyValue1 = 100.52045860505235453  keyValue2 = 99.096674249424864911
+keyValue3 = 97.7421476359476884  keyValue3 = 100.37195432431384745
+k1 =        100.52045860505235453  k2 =        99.096674249424864911
+k3 =        97.7421476359476884  k4 =        100.37195432431384745
+checkSaveDistribution with Ranlux64Engine, RandGauss
+keyValue1 = 96.051755776761993388  keyValue2 = 94.277353427321088475
+keyValue3 = 99.020994513895956857  keyValue3 = 100.96523487431035448
+k1 =        96.051755776761993388  k2 =        94.277353427321088475
+k3 =        99.020994513895956857  k4 =        100.96523487431035448
+checkSaveDistribution with Ranlux64Engine, RandGaussQ
+keyValue1 = 10.917548656463623047  keyValue2 = 10.44699057936668396
+keyValue3 = 11.411592483520507812  keyValue3 = 8.6451776027679443359
+k1 =        10.917548656463623047  k2 =        10.44699057936668396
+k3 =        11.411592483520507812  k4 =        8.6451776027679443359
+checkSaveDistribution with Ranlux64Engine, RandGaussT
+keyValue1 = 7.1376318922851460513  keyValue2 = 9.0789435124251127718
+keyValue3 = 2.3764677318174078913  keyValue3 = 0.7366502792568736524
+k1 =        7.1376318922851460513  k2 =        9.0789435124251127718
+k3 =        2.3764677318174078913  k4 =        0.7366502792568736524
+checkSaveDistribution with Ranlux64Engine, RandBinomial
+keyValue1 = 3  keyValue2 = 3
+keyValue3 = 3  keyValue3 = 4
+k1 =        3  k2 =        3
+k3 =        3  k4 =        4
+checkSaveDistribution with Ranlux64Engine, RandFlat
+keyValue1 = 17.923469518251792465  keyValue2 = 30.695834337513051793
+keyValue3 = 14.873373533196371454  keyValue3 = 22.1308674476426539
+k1 =        17.923469518251792465  k2 =        30.695834337513051793
+k3 =        14.873373533196371454  k4 =        22.1308674476426539
+checkSaveDistribution with Ranlux64Engine, RandBit
+keyValue1 = 0.15350043928670054072  keyValue2 = 0.42854675814092324515
+keyValue3 = 0.38101787622340488326  keyValue3 = 0.69544386609894992546
+k1 =        0.15350043928670054072  k2 =        0.42854675814092324515
+k3 =        0.38101787622340488326  k4 =        0.69544386609894992546
+checkSaveDistribution with Ranlux64Engine, RandBit
+keyValue1 = 0.52532918136635053941  keyValue2 = 0.33406241262382785351
+keyValue3 = 0.63882544242649252908  keyValue3 = 0.17922894413372425504
+k1 =        0.52532918136635053941  k2 =        0.33406241262382785351
+k3 =        0.63882544242649252908  k4 =        0.17922894413372425504
+checkSaveDistribution with Ranlux64Engine, RandBit
+keyValue1 = 0.035108208319476474912  keyValue2 = 0.11527666372854916688
+keyValue3 = 0.9316800179760438283  keyValue3 = 0.38602960115778195416
+k1 =        0.035108208319476474912  k2 =        0.11527666372854916688
+k3 =        0.9316800179760438283  k4 =        0.38602960115778195416
+checkSaveDistribution with Ranlux64Engine, RandBreitWigner
+keyValue1 = 10.482884673000953057  keyValue2 = 40.263677178868704232
+keyValue3 = 43.65753329510607017  keyValue3 = 35.518545506665134326
+k1 =        10.482884673000953057  k2 =        40.263677178868704232
+k3 =        43.65753329510607017  k4 =        35.518545506665134326
+checkSaveDistribution with Ranlux64Engine, RandChiSquare
+keyValue1 = 5.8848502711168926282  keyValue2 = 2.3788860743029554001
+keyValue3 = 1.8553937274143526004  keyValue3 = 3.9548365619316734332
+k1 =        5.8848502711168926282  k2 =        2.3788860743029554001
+k3 =        1.8553937274143526004  k4 =        3.9548365619316734332
+checkSaveDistribution with Ranlux64Engine, RandExponential
+keyValue1 = 1.4734027592983434118  keyValue2 = 23.789054829251494283
+keyValue3 = 6.3752625848082846716  keyValue3 = 0.10281197141692055563
+k1 =        1.4734027592983434118  k2 =        23.789054829251494283
+k3 =        6.3752625848082846716  k4 =        0.10281197141692055563
+checkSaveDistribution with Ranlux64Engine, RandGamma
+keyValue1 = 3.7759710017497076784  keyValue2 = 3.7535951930336599602
+keyValue3 = 1.8803701865343767086  keyValue3 = 3.656734521073654598
+k1 =        3.7759710017497076784  k2 =        3.7535951930336599602
+k3 =        1.8803701865343767086  k4 =        3.656734521073654598
+checkSaveDistribution with Ranlux64Engine, RandLandau
+keyValue1 = 19.827207454046156698  keyValue2 = -0.016514716423529585132
+keyValue3 = 7.129498558728321278  keyValue3 = -1.3121372672476614429
+k1 =        19.827207454046156698  k2 =        -0.016514716423529585132
+k3 =        7.129498558728321278  k4 =        -1.3121372672476614429
+checkSaveDistribution with Ranlux64Engine, RandStudentT
+keyValue1 = 0.84882270555655581212  keyValue2 = -0.10945672518396949713
+keyValue3 = -0.77066233996337774048  keyValue3 = -2.2467301080983936856
+k1 =        0.84882270555655581212  k2 =        -0.10945672518396949713
+k3 =        -0.77066233996337774048  k4 =        -2.2467301080983936856
+checkSaveDistribution with Ranlux64Engine, RandPoisson
+keyValue1 = 1  keyValue2 = 2
+keyValue3 = 5  keyValue3 = 0
+k1 =        1  k2 =        2
+k3 =        5  k4 =        0
+checkSaveDistribution with Ranlux64Engine, RandPoisson
+keyValue1 = 111  keyValue2 = 105
+keyValue3 = 89  keyValue3 = 106
+k1 =        111  k2 =        105
+k3 =        89  k4 =        106
+checkSaveDistribution with Ranlux64Engine, RandPoisson
+keyValue1 = 1  keyValue2 = 4
+keyValue3 = 3  keyValue3 = 4
+k1 =        1  k2 =        4
+k3 =        3  k4 =        4
+checkSaveDistribution with Ranlux64Engine, RandPoisson
+keyValue1 = 4  keyValue2 = 2
+keyValue3 = 3  keyValue3 = 2
+k1 =        4  k2 =        2
+k3 =        3  k4 =        2
+checkSaveDistribution with Ranlux64Engine, RandPoisson
+keyValue1 = 2  keyValue2 = 1
+keyValue3 = 5  keyValue3 = 5
+k1 =        2  k2 =        1
+k3 =        5  k4 =        5
+checkSaveDistribution with Ranlux64Engine, RandPoisson
+keyValue1 = 2  keyValue2 = 3
+keyValue3 = 0  keyValue3 = 2
+k1 =        2  k2 =        3
+k3 =        0  k4 =        2
+checkSaveDistribution with Ranlux64Engine, RandPoisson
+keyValue1 = 107  keyValue2 = 109
+keyValue3 = 111  keyValue3 = 115
+k1 =        107  k2 =        109
+k3 =        111  k4 =        115
+checkSaveDistribution with Ranlux64Engine, RandPoissonQ
+keyValue1 = 1  keyValue2 = 3
+keyValue3 = 4  keyValue3 = 2
+k1 =        1  k2 =        3
+k3 =        4  k4 =        2
+checkSaveDistribution with Ranlux64Engine, RandPoissonQ
+keyValue1 = 0  keyValue2 = 1
+keyValue3 = 4  keyValue3 = 1
+k1 =        0  k2 =        1
+k3 =        4  k4 =        1
+checkSaveDistribution with Ranlux64Engine, RandPoissonQ
+keyValue1 = 6  keyValue2 = 0
+keyValue3 = 3  keyValue3 = 2
+k1 =        6  k2 =        0
+k3 =        3  k4 =        2
+checkSaveDistribution with Ranlux64Engine, RandPoissonQ
+keyValue1 = 1  keyValue2 = 0
+keyValue3 = 2  keyValue3 = 5
+k1 =        1  k2 =        0
+k3 =        2  k4 =        5
+checkSaveDistribution with Ranlux64Engine, RandPoissonQ
+keyValue1 = 115  keyValue2 = 112
+keyValue3 = 111  keyValue3 = 121
+k1 =        115  k2 =        112
+k3 =        111  k4 =        121
+checkSaveDistribution with Ranlux64Engine, RandPoissonQ
+keyValue1 = 3  keyValue2 = 1
+keyValue3 = 4  keyValue3 = 2
+k1 =        3  k2 =        1
+k3 =        4  k4 =        2
+checkSaveDistribution with Ranlux64Engine, RandPoissonQ
+keyValue1 = 112  keyValue2 = 101
+keyValue3 = 121  keyValue3 = 108
+k1 =        112  k2 =        101
+k3 =        121  k4 =        108
+checkSaveDistribution with Ranlux64Engine, RandPoissonT
+keyValue1 = 3  keyValue2 = 3
+keyValue3 = 2  keyValue3 = 4
+k1 =        3  k2 =        3
+k3 =        2  k4 =        4
+checkSaveDistribution with Ranlux64Engine, RandPoissonT
+keyValue1 = 111  keyValue2 = 107
+keyValue3 = 104  keyValue3 = 126
+k1 =        111  k2 =        107
+k3 =        104  k4 =        126
+checkSaveDistribution with Ranlux64Engine, RandPoissonT
+keyValue1 = 3  keyValue2 = 1
+keyValue3 = 4  keyValue3 = 2
+k1 =        3  k2 =        1
+k3 =        4  k4 =        2
+checkSaveDistribution with Ranlux64Engine, RandPoissonT
+keyValue1 = 107  keyValue2 = 117
+keyValue3 = 126  keyValue3 = 100
+k1 =        107  k2 =        117
+k3 =        126  k4 =        100
+checkSaveDistribution with Ranlux64Engine, RandPoissonT
+keyValue1 = 3  keyValue2 = 1
+keyValue3 = 2  keyValue3 = 1
+k1 =        3  k2 =        1
+k3 =        2  k4 =        1
+checkSaveDistribution with Ranlux64Engine, RandPoissonT
+keyValue1 = 1  keyValue2 = 4
+keyValue3 = 1  keyValue3 = 2
+k1 =        1  k2 =        4
+k3 =        1  k4 =        2
+checkSaveDistribution with Ranlux64Engine, RandPoissonT
+keyValue1 = 1  keyValue2 = 3
+keyValue3 = 1  keyValue3 = 3
+k1 =        1  k2 =        3
+k3 =        1  k4 =        3
+checkSaveDistribution with Ranlux64Engine, RandGeneral
+keyValue1 = 0.11005188516469294191  keyValue2 = 0.72487280753066529737
+keyValue3 = 0.45459236003859770925  keyValue3 = 0.26039093865648305082
+k1 =        0.11005188516469294191  k2 =        0.72487280753066529737
+k3 =        0.45459236003859770925  k4 =        0.26039093865648305082
+checkSaveDistribution with RanluxEngine, RandGauss
+keyValue1 = 98.103510801480439341  keyValue2 = 100.56752884062508713
+keyValue3 = 100.64685696967409001  keyValue3 = 102.3371310709182751
+k1 =        98.103510801480439341  k2 =        100.56752884062508713
+k3 =        100.64685696967409001  k4 =        102.3371310709182751
+checkSaveDistribution with RanluxEngine, RandGauss
+keyValue1 = 99.073207057946007126  keyValue2 = 102.33639534918583536
+keyValue3 = 95.210707027770652644  keyValue3 = 102.57746362070248836
+k1 =        99.073207057946007126  k2 =        102.33639534918583536
+k3 =        95.210707027770652644  k4 =        102.57746362070248836
+checkSaveDistribution with RanluxEngine, RandGaussQ
+keyValue1 = 5.3693437576293945312  keyValue2 = 5.1923470497131347656
+keyValue3 = 6.0414278507232666016  keyValue3 = 10.798562347888946533
+k1 =        5.3693437576293945312  k2 =        5.1923470497131347656
+k3 =        6.0414278507232666016  k4 =        10.798562347888946533
+checkSaveDistribution with RanluxEngine, RandGaussT
+keyValue1 = 3.5614485021033224221  keyValue2 = 4.8852578916584841195
+keyValue3 = 0.52035646864922924237  keyValue3 = 5.5564651241914253532
+k1 =        3.5614485021033224221  k2 =        4.8852578916584841195
+k3 =        0.52035646864922924237  k4 =        5.5564651241914253532
+checkSaveDistribution with RanluxEngine, RandBinomial
+keyValue1 = 3  keyValue2 = 1
+keyValue3 = 1  keyValue3 = 2
+k1 =        3  k2 =        1
+k3 =        1  k4 =        2
+checkSaveDistribution with RanluxEngine, RandFlat
+keyValue1 = 23.24710458517074585  keyValue2 = 12.885857224464416504
+keyValue3 = 18.333544433116912842  keyValue3 = 33.193883597850799561
+k1 =        23.24710458517074585  k2 =        12.885857224464416504
+k3 =        18.333544433116912842  k4 =        33.193883597850799561
+checkSaveDistribution with RanluxEngine, RandBit
+keyValue1 = 0.30667006969451904297  keyValue2 = 0.024004995822906494141
+keyValue3 = 0.61861234903335571289  keyValue3 = 0.2190831303596496582
+k1 =        0.30667006969451904297  k2 =        0.024004995822906494141
+k3 =        0.61861234903335571289  k4 =        0.2190831303596496582
+checkSaveDistribution with RanluxEngine, RandBit
+keyValue1 = 0.50157457590103149414  keyValue2 = 0.6933854222297668457
+keyValue3 = 0.17988979816436767578  keyValue3 = 0.95404225587844848633
+k1 =        0.50157457590103149414  k2 =        0.6933854222297668457
+k3 =        0.17988979816436767578  k4 =        0.95404225587844848633
+checkSaveDistribution with RanluxEngine, RandBit
+keyValue1 = 0.85143423080444335938  keyValue2 = 0.92184776067733764648
+keyValue3 = 0.32075124979019165039  keyValue3 = 0.23728960752487182617
+k1 =        0.85143423080444335938  k2 =        0.92184776067733764648
+k3 =        0.32075124979019165039  k4 =        0.23728960752487182617
+checkSaveDistribution with RanluxEngine, RandBreitWigner
+keyValue1 = 47.869618806257591359  keyValue2 = 39.875197825338375424
+keyValue3 = 56.68774338425835424  keyValue3 = 21.511040563413704518
+k1 =        47.869618806257591359  k2 =        39.875197825338375424
+k3 =        56.68774338425835424  k4 =        21.511040563413704518
+checkSaveDistribution with RanluxEngine, RandChiSquare
+keyValue1 = 7.5419715570978453911  keyValue2 = 13.340992485445994475
+keyValue3 = 3.7157277430089297177  keyValue3 = 9.0225389142253398234
+k1 =        7.5419715570978453911  k2 =        13.340992485445994475
+k3 =        3.7157277430089297177  k4 =        9.0225389142253398234
+checkSaveDistribution with RanluxEngine, RandExponential
+keyValue1 = 0.131927394002270576  keyValue2 = 5.1144963422920355356
+keyValue3 = 5.9013867033062892276  keyValue3 = 1.6969505112841420935
+k1 =        0.131927394002270576  k2 =        5.1144963422920355356
+k3 =        5.9013867033062892276  k4 =        1.6969505112841420935
+checkSaveDistribution with RanluxEngine, RandGamma
+keyValue1 = 3.3655563200774296639  keyValue2 = 2.9322203958577488514
+keyValue3 = 1.6758591898909875884  keyValue3 = 3.6342650389710899894
+k1 =        3.3655563200774296639  k2 =        2.9322203958577488514
+k3 =        1.6758591898909875884  k4 =        3.6342650389710899894
+checkSaveDistribution with RanluxEngine, RandLandau
+keyValue1 = -1.2184076860309380752  keyValue2 = 10.973907697596093413
+keyValue3 = 0.20786875851269920323  keyValue3 = 7.1798490280990865386
+k1 =        -1.2184076860309380752  k2 =        10.973907697596093413
+k3 =        0.20786875851269920323  k4 =        7.1798490280990865386
+checkSaveDistribution with RanluxEngine, RandStudentT
+keyValue1 = 1.8659239988237774632  keyValue2 = -0.40558329430538220262
+keyValue3 = -0.67741516544124746879  keyValue3 = -2.1310763291605216985
+k1 =        1.8659239988237774632  k2 =        -0.40558329430538220262
+k3 =        -0.67741516544124746879  k4 =        -2.1310763291605216985
+checkSaveDistribution with RanluxEngine, RandPoisson
+keyValue1 = 2  keyValue2 = 2
+keyValue3 = 2  keyValue3 = 5
+k1 =        2  k2 =        2
+k3 =        2  k4 =        5
+checkSaveDistribution with RanluxEngine, RandPoisson
+keyValue1 = 119  keyValue2 = 90
+keyValue3 = 102  keyValue3 = 102
+k1 =        119  k2 =        90
+k3 =        102  k4 =        102
+checkSaveDistribution with RanluxEngine, RandPoisson
+keyValue1 = 2  keyValue2 = 2
+keyValue3 = 2  keyValue3 = 0
+k1 =        2  k2 =        2
+k3 =        2  k4 =        0
+checkSaveDistribution with RanluxEngine, RandPoisson
+keyValue1 = 3  keyValue2 = 3
+keyValue3 = 0  keyValue3 = 4
+k1 =        3  k2 =        3
+k3 =        0  k4 =        4
+checkSaveDistribution with RanluxEngine, RandPoisson
+keyValue1 = 1  keyValue2 = 1
+keyValue3 = 2  keyValue3 = 0
+k1 =        1  k2 =        1
+k3 =        2  k4 =        0
+checkSaveDistribution with RanluxEngine, RandPoisson
+keyValue1 = 4  keyValue2 = 3
+keyValue3 = 4  keyValue3 = 1
+k1 =        4  k2 =        3
+k3 =        4  k4 =        1
+checkSaveDistribution with RanluxEngine, RandPoisson
+keyValue1 = 103  keyValue2 = 118
+keyValue3 = 108  keyValue3 = 97
+k1 =        103  k2 =        118
+k3 =        108  k4 =        97
+checkSaveDistribution with RanluxEngine, RandPoissonQ
+keyValue1 = 0  keyValue2 = 1
+keyValue3 = 2  keyValue3 = 5
+k1 =        0  k2 =        1
+k3 =        2  k4 =        5
+checkSaveDistribution with RanluxEngine, RandPoissonQ
+keyValue1 = 3  keyValue2 = 4
+keyValue3 = 3  keyValue3 = 3
+k1 =        3  k2 =        4
+k3 =        3  k4 =        3
+checkSaveDistribution with RanluxEngine, RandPoissonQ
+keyValue1 = 4  keyValue2 = 4
+keyValue3 = 6  keyValue3 = 3
+k1 =        4  k2 =        4
+k3 =        6  k4 =        3
+checkSaveDistribution with RanluxEngine, RandPoissonQ
+keyValue1 = 3  keyValue2 = 3
+keyValue3 = 2  keyValue3 = 5
+k1 =        3  k2 =        3
+k3 =        2  k4 =        5
+checkSaveDistribution with RanluxEngine, RandPoissonQ
+keyValue1 = 125  keyValue2 = 96
+keyValue3 = 136  keyValue3 = 103
+k1 =        125  k2 =        96
+k3 =        136  k4 =        103
+checkSaveDistribution with RanluxEngine, RandPoissonQ
+keyValue1 = 1  keyValue2 = 4
+keyValue3 = 1  keyValue3 = 8
+k1 =        1  k2 =        4
+k3 =        1  k4 =        8
+checkSaveDistribution with RanluxEngine, RandPoissonQ
+keyValue1 = 96  keyValue2 = 118
+keyValue3 = 103  keyValue3 = 141
+k1 =        96  k2 =        118
+k3 =        103  k4 =        141
+checkSaveDistribution with RanluxEngine, RandPoissonT
+keyValue1 = 5  keyValue2 = 1
+keyValue3 = 7  keyValue3 = 1
+k1 =        5  k2 =        1
+k3 =        7  k4 =        1
+checkSaveDistribution with RanluxEngine, RandPoissonT
+keyValue1 = 123  keyValue2 = 96
+keyValue3 = 100  keyValue3 = 104
+k1 =        123  k2 =        96
+k3 =        100  k4 =        104
+checkSaveDistribution with RanluxEngine, RandPoissonT
+keyValue1 = 1  keyValue2 = 4
+keyValue3 = 1  keyValue3 = 8
+k1 =        1  k2 =        4
+k3 =        1  k4 =        8
+checkSaveDistribution with RanluxEngine, RandPoissonT
+keyValue1 = 96  keyValue2 = 84
+keyValue3 = 104  keyValue3 = 102
+k1 =        96  k2 =        84
+k3 =        104  k4 =        102
+checkSaveDistribution with RanluxEngine, RandPoissonT
+keyValue1 = 0  keyValue2 = 3
+keyValue3 = 3  keyValue3 = 1
+k1 =        0  k2 =        3
+k3 =        3  k4 =        1
+checkSaveDistribution with RanluxEngine, RandPoissonT
+keyValue1 = 2  keyValue2 = 1
+keyValue3 = 3  keyValue3 = 5
+k1 =        2  k2 =        1
+k3 =        3  k4 =        5
+checkSaveDistribution with RanluxEngine, RandPoissonT
+keyValue1 = 4  keyValue2 = 1
+keyValue3 = 3  keyValue3 = 2
+k1 =        4  k2 =        1
+k3 =        3  k4 =        2
+checkSaveDistribution with RanluxEngine, RandGeneral
+keyValue1 = 0.15807302817963719832  keyValue2 = 0.22471418342437132765
+keyValue3 = 0.019725358810554555894  keyValue3 = 0.13221111101944757471
+k1 =        0.15807302817963719832  k2 =        0.22471418342437132765
+k3 =        0.019725358810554555894  k4 =        0.13221111101944757471
+checkSaveDistribution with RanshiEngine, RandGauss
+keyValue1 = 101.14421493848098521  keyValue2 = 98.526974523346495971
+keyValue3 = 103.57308554470499473  keyValue3 = 102.45196964686010688
+k1 =        101.14421493848098521  k2 =        98.526974523346495971
+k3 =        103.57308554470499473  k4 =        102.45196964686010688
+checkSaveDistribution with RanshiEngine, RandGauss
+keyValue1 = 95.662208428571446461  keyValue2 = 96.11122927811427985
+keyValue3 = 101.00600787702781247  keyValue3 = 98.005289421291465146
+k1 =        95.662208428571446461  k2 =        96.11122927811427985
+k3 =        101.00600787702781247  k4 =        98.005289421291465146
+checkSaveDistribution with RanshiEngine, RandGaussQ
+keyValue1 = 8.2854400873184204102  keyValue2 = 7.8134100437164306641
+keyValue3 = 8.7809287309646606445  keyValue3 = 16.434168338775634766
+k1 =        8.2854400873184204102  k2 =        7.8134100437164306641
+k3 =        8.7809287309646606445  k4 =        16.434168338775634766
+checkSaveDistribution with RanshiEngine, RandGaussT
+keyValue1 = 8.0047295322950517971  keyValue2 = 8.7202614811388308169
+keyValue3 = 5.4367480956826019778  keyValue3 = 1.9511256818176012651
+k1 =        8.0047295322950517971  k2 =        8.7202614811388308169
+k3 =        5.4367480956826019778  k4 =        1.9511256818176012651
+checkSaveDistribution with RanshiEngine, RandBinomial
+keyValue1 = 1  keyValue2 = 4
+keyValue3 = 3  keyValue3 = 2
+k1 =        1  k2 =        4
+k3 =        3  k4 =        2
+checkSaveDistribution with RanshiEngine, RandFlat
+keyValue1 = 22.872482859350785844  keyValue2 = 26.064853657332818671
+keyValue3 = 23.25398604996326668  keyValue3 = 13.112334417169400069
+k1 =        22.872482859350785844  k2 =        26.064853657332818671
+k3 =        23.25398604996326668  k4 =        13.112334417169400069
+checkSaveDistribution with RanshiEngine, RandBit
+keyValue1 = 0.6539266914830182964  keyValue2 = 0.099949726077233236321
+keyValue3 = 0.78652656199506054691  keyValue3 = 0.32309745126616268296
+k1 =        0.6539266914830182964  k2 =        0.099949726077233236321
+k3 =        0.78652656199506054691  k4 =        0.32309745126616268296
+checkSaveDistribution with RanshiEngine, RandBit
+keyValue1 = 0.20673402627494202877  keyValue2 = 0.071315737476357832225
+keyValue3 = 0.15855241560152250058  keyValue3 = 0.58566871977879986222
+k1 =        0.20673402627494202877  k2 =        0.071315737476357832225
+k3 =        0.15855241560152250058  k4 =        0.58566871977879986222
+checkSaveDistribution with RanshiEngine, RandBit
+keyValue1 = 0.64843636469017651436  keyValue2 = 0.28212956547051853962
+keyValue3 = 0.36546521039042606516  keyValue3 = 0.65793876488704183814
+k1 =        0.64843636469017651436  k2 =        0.28212956547051853962
+k3 =        0.36546521039042606516  k4 =        0.65793876488704183814
+checkSaveDistribution with RanshiEngine, RandBreitWigner
+keyValue1 = 30.055783883304268755  keyValue2 = 43.091838477633530147
+keyValue3 = 70.246623528765965716  keyValue3 = 97.964689867246093513
+k1 =        30.055783883304268755  k2 =        43.091838477633530147
+k3 =        70.246623528765965716  k4 =        97.964689867246093513
+checkSaveDistribution with RanshiEngine, RandChiSquare
+keyValue1 = 2.1411086914057038122  keyValue2 = 5.9451316902268240838
+keyValue3 = 4.8781949861408424596  keyValue3 = 9.2937311862955720443
+k1 =        2.1411086914057038122  k2 =        5.9451316902268240838
+k3 =        4.8781949861408424596  k4 =        9.2937311862955720443
+checkSaveDistribution with RanshiEngine, RandExponential
+keyValue1 = 12.076311508820833041  keyValue2 = 2.6878817944719122224
+keyValue3 = 0.73122186926390297934  keyValue3 = 13.75504091268572715
+k1 =        12.076311508820833041  k2 =        2.6878817944719122224
+k3 =        0.73122186926390297934  k4 =        13.75504091268572715
+checkSaveDistribution with RanshiEngine, RandGamma
+keyValue1 = 3.7226327197286557258  keyValue2 = 1.7135358015613095795
+keyValue3 = 1.6588261431827899806  keyValue3 = 4.2858259556051399031
+k1 =        3.7226327197286557258  k2 =        1.7135358015613095795
+k3 =        1.6588261431827899806  k4 =        4.2858259556051399031
+checkSaveDistribution with RanshiEngine, RandLandau
+keyValue1 = -1.1873324725604028629  keyValue2 = -1.246189805169318543
+keyValue3 = -0.19944487924514511801  keyValue3 = 3.1957564254793342506
+k1 =        -1.1873324725604028629  k2 =        -1.246189805169318543
+k3 =        -0.19944487924514511801  k4 =        3.1957564254793342506
+checkSaveDistribution with RanshiEngine, RandStudentT
+keyValue1 = 1.0231648055324793489  keyValue2 = 0.78406046141999730104
+keyValue3 = 0.10463755385522073571  keyValue3 = -0.96597706494172153047
+k1 =        1.0231648055324793489  k2 =        0.78406046141999730104
+k3 =        0.10463755385522073571  k4 =        -0.96597706494172153047
+checkSaveDistribution with RanshiEngine, RandPoisson
+keyValue1 = 1  keyValue2 = 1
+keyValue3 = 3  keyValue3 = 2
+k1 =        1  k2 =        1
+k3 =        3  k4 =        2
+checkSaveDistribution with RanshiEngine, RandPoisson
+keyValue1 = 86  keyValue2 = 103
+keyValue3 = 93  keyValue3 = 100
+k1 =        86  k2 =        103
+k3 =        93  k4 =        100
+checkSaveDistribution with RanshiEngine, RandPoisson
+keyValue1 = 1  keyValue2 = 3
+keyValue3 = 4  keyValue3 = 1
+k1 =        1  k2 =        3
+k3 =        4  k4 =        1
+checkSaveDistribution with RanshiEngine, RandPoisson
+keyValue1 = 1  keyValue2 = 2
+keyValue3 = 4  keyValue3 = 1
+k1 =        1  k2 =        2
+k3 =        4  k4 =        1
+checkSaveDistribution with RanshiEngine, RandPoisson
+keyValue1 = 4  keyValue2 = 1
+keyValue3 = 3  keyValue3 = 2
+k1 =        4  k2 =        1
+k3 =        3  k4 =        2
+checkSaveDistribution with RanshiEngine, RandPoisson
+keyValue1 = 3  keyValue2 = 2
+keyValue3 = 2  keyValue3 = 1
+k1 =        3  k2 =        2
+k3 =        2  k4 =        1
+checkSaveDistribution with RanshiEngine, RandPoisson
+keyValue1 = 95  keyValue2 = 107
+keyValue3 = 108  keyValue3 = 108
+k1 =        95  k2 =        107
+k3 =        108  k4 =        108
+checkSaveDistribution with RanshiEngine, RandPoissonQ
+keyValue1 = 5  keyValue2 = 2
+keyValue3 = 1  keyValue3 = 1
+k1 =        5  k2 =        2
+k3 =        1  k4 =        1
+checkSaveDistribution with RanshiEngine, RandPoissonQ
+keyValue1 = 3  keyValue2 = 2
+keyValue3 = 1  keyValue3 = 4
+k1 =        3  k2 =        2
+k3 =        1  k4 =        4
+checkSaveDistribution with RanshiEngine, RandPoissonQ
+keyValue1 = 3  keyValue2 = 0
+keyValue3 = 1  keyValue3 = 0
+k1 =        3  k2 =        0
+k3 =        1  k4 =        0
+checkSaveDistribution with RanshiEngine, RandPoissonQ
+keyValue1 = 4  keyValue2 = 0
+keyValue3 = 3  keyValue3 = 3
+k1 =        4  k2 =        0
+k3 =        3  k4 =        3
+checkSaveDistribution with RanshiEngine, RandPoissonQ
+keyValue1 = 98  keyValue2 = 115
+keyValue3 = 134  keyValue3 = 125
+k1 =        98  k2 =        115
+k3 =        134  k4 =        125
+checkSaveDistribution with RanshiEngine, RandPoissonQ
+keyValue1 = 3  keyValue2 = 2
+keyValue3 = 5  keyValue3 = 1
+k1 =        3  k2 =        2
+k3 =        5  k4 =        1
+checkSaveDistribution with RanshiEngine, RandPoissonQ
+keyValue1 = 115  keyValue2 = 108
+keyValue3 = 125  keyValue3 = 98
+k1 =        115  k2 =        108
+k3 =        125  k4 =        98
+checkSaveDistribution with RanshiEngine, RandPoissonT
+keyValue1 = 1  keyValue2 = 3
+keyValue3 = 7  keyValue3 = 5
+k1 =        1  k2 =        3
+k3 =        7  k4 =        5
+checkSaveDistribution with RanshiEngine, RandPoissonT
+keyValue1 = 87  keyValue2 = 131
+keyValue3 = 118  keyValue3 = 86
+k1 =        87  k2 =        131
+k3 =        118  k4 =        86
+checkSaveDistribution with RanshiEngine, RandPoissonT
+keyValue1 = 3  keyValue2 = 2
+keyValue3 = 5  keyValue3 = 1
+k1 =        3  k2 =        2
+k3 =        5  k4 =        1
+checkSaveDistribution with RanshiEngine, RandPoissonT
+keyValue1 = 131  keyValue2 = 107
+keyValue3 = 86  keyValue3 = 92
+k1 =        131  k2 =        107
+k3 =        86  k4 =        92
+checkSaveDistribution with RanshiEngine, RandPoissonT
+keyValue1 = 4  keyValue2 = 1
+keyValue3 = 3  keyValue3 = 0
+k1 =        4  k2 =        1
+k3 =        3  k4 =        0
+checkSaveDistribution with RanshiEngine, RandPoissonT
+keyValue1 = 4  keyValue2 = 5
+keyValue3 = 4  keyValue3 = 5
+k1 =        4  k2 =        5
+k3 =        4  k4 =        5
+checkSaveDistribution with RanshiEngine, RandPoissonT
+keyValue1 = 3  keyValue2 = 2
+keyValue3 = 3  keyValue3 = 0
+k1 =        3  k2 =        2
+k3 =        3  k4 =        0
+checkSaveDistribution with RanshiEngine, RandGeneral
+keyValue1 = 0.82853354507253473837  keyValue2 = 0.99310294871908466607
+keyValue3 = 0.82488388353479413784  keyValue3 = 0.96457398965519214329
+k1 =        0.82853354507253473837  k2 =        0.99310294871908466607
+k3 =        0.82488388353479413784  k4 =        0.96457398965519214329
+checkSaveDistribution with TripleRand, RandGauss
+keyValue1 = 104.06274075730891582  keyValue2 = 97.819200693437323935
+keyValue3 = 102.09483877843128141  keyValue3 = 100.06528231368039883
+k1 =        104.06274075730891582  k2 =        97.819200693437323935
+k3 =        102.09483877843128141  k4 =        100.06528231368039883
+checkSaveDistribution with TripleRand, RandGauss
+keyValue1 = 97.138549356544757529  keyValue2 = 98.99243474235896656
+keyValue3 = 96.474505232803778654  keyValue3 = 100.81125734744964006
+k1 =        97.138549356544757529  k2 =        98.99243474235896656
+k3 =        96.474505232803778654  k4 =        100.81125734744964006
+checkSaveDistribution with TripleRand, RandGaussQ
+keyValue1 = 3.1607079505920410156  keyValue2 = 4.4806704521179199219
+keyValue3 = 9.7662785351276397705  keyValue3 = 7.8097796440124511719
+k1 =        3.1607079505920410156  k2 =        4.4806704521179199219
+k3 =        9.7662785351276397705  k4 =        7.8097796440124511719
+checkSaveDistribution with TripleRand, RandGaussT
+keyValue1 = 2.6312933731722907282  keyValue2 = 4.0874607403846319187
+keyValue3 = 7.3303885573980558377  keyValue3 = 6.4303440845077570742
+k1 =        2.6312933731722907282  k2 =        4.0874607403846319187
+k3 =        7.3303885573980558377  k4 =        6.4303440845077570742
+checkSaveDistribution with TripleRand, RandBinomial
+keyValue1 = 2  keyValue2 = 1
+keyValue3 = 3  keyValue3 = 3
+k1 =        2  k2 =        1
+k3 =        3  k4 =        3
+checkSaveDistribution with TripleRand, RandFlat
+keyValue1 = 13.935553940768439674  keyValue2 = 19.11125453748291747
+keyValue3 = 25.889663561241192724  keyValue3 = 12.803038113415709631
+k1 =        13.935553940768439674  k2 =        19.11125453748291747
+k3 =        25.889663561241192724  k4 =        12.803038113415709631
+checkSaveDistribution with TripleRand, RandBit
+keyValue1 = 0.12618427860759889869  keyValue2 = 0.14657473358781719641
+keyValue3 = 0.087940074387230560138  keyValue3 = 0.63303910629214521499
+k1 =        0.12618427860759889869  k2 =        0.14657473358781719641
+k3 =        0.087940074387230560138  k4 =        0.63303910629214521499
+checkSaveDistribution with TripleRand, RandBit
+keyValue1 = 0.68546685266365314781  keyValue2 = 0.55610530961013515672
+keyValue3 = 0.84451229258059845595  keyValue3 = 0.80652111029311146506
+k1 =        0.68546685266365314781  k2 =        0.55610530961013515672
+k3 =        0.84451229258059845595  k4 =        0.80652111029311146506
+checkSaveDistribution with TripleRand, RandBit
+keyValue1 = 0.52743464918006310871  keyValue2 = 0.33944613533979123288
+keyValue3 = 0.97679933763897286436  keyValue3 = 0.63448628402932050196
+k1 =        0.52743464918006310871  k2 =        0.33944613533979123288
+k3 =        0.97679933763897286436  k4 =        0.63448628402932050196
+checkSaveDistribution with TripleRand, RandBreitWigner
+keyValue1 = 53.729835256054251147  keyValue2 = 44.554108984077004152
+keyValue3 = 53.435582963938756507  keyValue3 = -10.632987353391534668
+k1 =        53.729835256054251147  k2 =        44.554108984077004152
+k3 =        53.435582963938756507  k4 =        -10.632987353391534668
+checkSaveDistribution with TripleRand, RandChiSquare
+keyValue1 = 10.875731422134490956  keyValue2 = 3.9026429483907385531
+keyValue3 = 3.0956465451567307667  keyValue3 = 1.5192084184116281254
+k1 =        10.875731422134490956  k2 =        3.9026429483907385531
+k3 =        3.0956465451567307667  k4 =        1.5192084184116281254
+checkSaveDistribution with TripleRand, RandExponential
+keyValue1 = 5.5114831211496477792  keyValue2 = 11.529357613702815755
+keyValue3 = 3.2174915692151202506  keyValue3 = 15.59566434489564557
+k1 =        5.5114831211496477792  k2 =        11.529357613702815755
+k3 =        3.2174915692151202506  k4 =        15.59566434489564557
+checkSaveDistribution with TripleRand, RandGamma
+keyValue1 = 1.2725020268552764691  keyValue2 = 1.2069073144235218376
+keyValue3 = 3.7839585588486559509  keyValue3 = 2.7238602859814626811
+k1 =        1.2725020268552764691  k2 =        1.2069073144235218376
+k3 =        3.7839585588486559509  k4 =        2.7238602859814626811
+checkSaveDistribution with TripleRand, RandLandau
+keyValue1 = 3.2067738159120091623  keyValue2 = 0.02282486518389085367
+keyValue3 = -0.64237768394295380325  keyValue3 = 2.615591991896152102
+k1 =        3.2067738159120091623  k2 =        0.02282486518389085367
+k3 =        -0.64237768394295380325  k4 =        2.615591991896152102
+checkSaveDistribution with TripleRand, RandStudentT
+keyValue1 = -0.41890318078009058933  keyValue2 = 1.0522694605208204877
+keyValue3 = 0.70542202226984029867  keyValue3 = 0.84439830089644074551
+k1 =        -0.41890318078009058933  k2 =        1.0522694605208204877
+k3 =        0.70542202226984029867  k4 =        0.84439830089644074551
+checkSaveDistribution with TripleRand, RandPoisson
+keyValue1 = 1  keyValue2 = 4
+keyValue3 = 2  keyValue3 = 1
+k1 =        1  k2 =        4
+k3 =        2  k4 =        1
+checkSaveDistribution with TripleRand, RandPoisson
+keyValue1 = 121  keyValue2 = 103
+keyValue3 = 109  keyValue3 = 128
+k1 =        121  k2 =        103
+k3 =        109  k4 =        128
+checkSaveDistribution with TripleRand, RandPoisson
+keyValue1 = 5  keyValue2 = 4
+keyValue3 = 1  keyValue3 = 3
+k1 =        5  k2 =        4
+k3 =        1  k4 =        3
+checkSaveDistribution with TripleRand, RandPoisson
+keyValue1 = 2  keyValue2 = 2
+keyValue3 = 3  keyValue3 = 1
+k1 =        2  k2 =        2
+k3 =        3  k4 =        1
+checkSaveDistribution with TripleRand, RandPoisson
+keyValue1 = 5  keyValue2 = 4
+keyValue3 = 4  keyValue3 = 1
+k1 =        5  k2 =        4
+k3 =        4  k4 =        1
+checkSaveDistribution with TripleRand, RandPoisson
+keyValue1 = 1  keyValue2 = 2
+keyValue3 = 3  keyValue3 = 2
+k1 =        1  k2 =        2
+k3 =        3  k4 =        2
+checkSaveDistribution with TripleRand, RandPoisson
+keyValue1 = 134  keyValue2 = 123
+keyValue3 = 117  keyValue3 = 110
+k1 =        134  k2 =        123
+k3 =        117  k4 =        110
+checkSaveDistribution with TripleRand, RandPoissonQ
+keyValue1 = 3  keyValue2 = 3
+keyValue3 = 2  keyValue3 = 3
+k1 =        3  k2 =        3
+k3 =        2  k4 =        3
+checkSaveDistribution with TripleRand, RandPoissonQ
+keyValue1 = 2  keyValue2 = 4
+keyValue3 = 6  keyValue3 = 2
+k1 =        2  k2 =        4
+k3 =        6  k4 =        2
+checkSaveDistribution with TripleRand, RandPoissonQ
+keyValue1 = 6  keyValue2 = 4
+keyValue3 = 0  keyValue3 = 3
+k1 =        6  k2 =        4
+k3 =        0  k4 =        3
+checkSaveDistribution with TripleRand, RandPoissonQ
+keyValue1 = 0  keyValue2 = 4
+keyValue3 = 1  keyValue3 = 3
+k1 =        0  k2 =        4
+k3 =        1  k4 =        3
+checkSaveDistribution with TripleRand, RandPoissonQ
+keyValue1 = 113  keyValue2 = 137
+keyValue3 = 103  keyValue3 = 108
+k1 =        113  k2 =        137
+k3 =        103  k4 =        108
+checkSaveDistribution with TripleRand, RandPoissonQ
+keyValue1 = 7  keyValue2 = 2
+keyValue3 = 2  keyValue3 = 1
+k1 =        7  k2 =        2
+k3 =        2  k4 =        1
+checkSaveDistribution with TripleRand, RandPoissonQ
+keyValue1 = 137  keyValue2 = 106
+keyValue3 = 108  keyValue3 = 103
+k1 =        137  k2 =        106
+k3 =        108  k4 =        103
+checkSaveDistribution with TripleRand, RandPoissonT
+keyValue1 = 3  keyValue2 = 7
+keyValue3 = 1  keyValue3 = 2
+k1 =        3  k2 =        7
+k3 =        1  k4 =        2
+checkSaveDistribution with TripleRand, RandPoissonT
+keyValue1 = 118  keyValue2 = 112
+keyValue3 = 100  keyValue3 = 115
+k1 =        118  k2 =        112
+k3 =        100  k4 =        115
+checkSaveDistribution with TripleRand, RandPoissonT
+keyValue1 = 7  keyValue2 = 2
+keyValue3 = 2  keyValue3 = 1
+k1 =        7  k2 =        2
+k3 =        2  k4 =        1
+checkSaveDistribution with TripleRand, RandPoissonT
+keyValue1 = 112  keyValue2 = 111
+keyValue3 = 115  keyValue3 = 111
+k1 =        112  k2 =        111
+k3 =        115  k4 =        111
+checkSaveDistribution with TripleRand, RandPoissonT
+keyValue1 = 0  keyValue2 = 0
+keyValue3 = 4  keyValue3 = 4
+k1 =        0  k2 =        0
+k3 =        4  k4 =        4
+checkSaveDistribution with TripleRand, RandPoissonT
+keyValue1 = 5  keyValue2 = 3
+keyValue3 = 3  keyValue3 = 0
+k1 =        5  k2 =        3
+k3 =        3  k4 =        0
+checkSaveDistribution with TripleRand, RandPoissonT
+keyValue1 = 5  keyValue2 = 1
+keyValue3 = 0  keyValue3 = 1
+k1 =        5  k2 =        1
+k3 =        0  k4 =        1
+checkSaveDistribution with TripleRand, RandGeneral
+keyValue1 = 0.95090492373939028425  keyValue2 = 0.78842362345760719222
+keyValue3 = 0.97353110362774131215  keyValue3 = 0.83093206362582083813
+k1 =        0.95090492373939028425  k2 =        0.78842362345760719222
+k3 =        0.97353110362774131215  k4 =        0.83093206362582083813
+
+=============================================
+
+testInstanceRestore passed with no problems detected.
