@@ -18,6 +18,7 @@
 #define NUM_REPLICATIONS 10
 #define NUM_THREADS 8
 #define CHECK_INTERVAL 1
+#define NB_STATUT 400
 
 const char NUCLEOTIDES[] = {'A', 'C', 'G', 'T'};
 const std::string TARGET_SEQUENCE = "AAATTTGCGTTCGA";
@@ -102,7 +103,7 @@ void simulate_parallel(std::vector<long long> &tries_needed_par,
 
             CLHEP::MTwistEngine generator;
             int status_index = replication * NUM_THREADS + thread_id;
-            status_index = status_index % 400;
+            status_index = status_index % NB_STATUT; // Ne devrais jamais dépasser NB_STATUT (400) puisque 10*8 < 400
 
             std::string status_file = "save/status_" + std::to_string(status_index) + ".txt";
             generator.restoreStatus(status_file.c_str());
